@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/limbus-affinity-helper/static/css/main.b53e0766.css",
-    "main.js": "/limbus-affinity-helper/static/js/main.6ceeae21.js",
+    "main.css": "/limbus-affinity-helper/static/css/main.ac18375e.css",
+    "main.js": "/limbus-affinity-helper/static/js/main.73788399.js",
     "index.html": "/limbus-affinity-helper/index.html",
-    "main.b53e0766.css.map": "/limbus-affinity-helper/static/css/main.b53e0766.css.map",
-    "main.6ceeae21.js.map": "/limbus-affinity-helper/static/js/main.6ceeae21.js.map"
+    "main.ac18375e.css.map": "/limbus-affinity-helper/static/css/main.ac18375e.css.map",
+    "main.73788399.js.map": "/limbus-affinity-helper/static/js/main.73788399.js.map"
   },
   "entrypoints": [
-    "static/css/main.b53e0766.css",
-    "static/js/main.6ceeae21.js"
+    "static/css/main.ac18375e.css",
+    "static/js/main.73788399.js"
   ]
 }
