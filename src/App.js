@@ -231,11 +231,3 @@ function App() {
 }
 
 export default App;
-
-// TODO:
-// Filter by character
-// Filter by damage type
-// Display damage type
-// Sort by character name
-
-// Implement passives
