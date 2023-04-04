@@ -42,8 +42,7 @@ export default function Card({ card, handleSelect, className, isEgo }) {
     >
       <img src={card.images.small.src}></img>
       <div className="character-info">
-        {card.character}
-        <br></br>
+        {card.character} ({card.rarity})<br></br>
         {card.name}
         <br></br>
         {affinityTotal(card.affinities)}

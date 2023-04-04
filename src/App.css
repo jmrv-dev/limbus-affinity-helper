@@ -96,3 +96,26 @@ body {
   border: round;
   border-color: gray;
 }
+
+@media screen and (max-width: 720px) {
+  .selected-panel {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .selected-characters {
+    flex: 1;
+    flex-direction: column;
+    width: auto;
+  }
+
+  .selected-egos {
+    flex: 1;
+    flex-direction: column;
+    width: auto;
+  }
+
+  .affinity-report {
+    order: -1;
+  }
+}
