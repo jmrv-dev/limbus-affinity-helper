@@ -1,12 +1,20 @@
 [
   {
+    "slug": "lcb-sinner-don-quixote",
+    "rarity": "0",
+    "attackType": [
+      "Pierce"
+    ],
     "resistances": {
       "blunt": "Fatal",
       "slash": "Normal",
       "pierce": "Ineff."
     },
-    "attackType": [
-      "Pierce"
+    "name": "[LCB Sinner] Don Quixote",
+    "baseCharacter": "Don Quixote",
+    "unitId": "28",
+    "speciality": [
+      "Haste"
     ],
     "skills": [
       {
@@ -58,14 +66,6 @@
         "coinEffect": null
       }
     ],
-    "slug": "lcb-sinner-don-quixote",
-    "speciality": [
-      "Haste"
-    ],
-    "rarity": "0",
-    "baseCharacter": "Don Quixote",
-    "unitId": "28",
-    "name": "[LCB Sinner] Don Quixote",
     "affinities": {
       "Lust": 3,
       "Envy": 2,
@@ -90,13 +90,22 @@
     }
   },
   {
+    "slug": "shi-section-5-don-quixote",
+    "rarity": "00",
+    "attackType": [
+      "Slash"
+    ],
     "resistances": {
       "blunt": "Normal",
       "slash": "Ineff.",
       "pierce": "Fatal"
     },
-    "attackType": [
-      "Slash"
+    "name": "[Shi Section 5] Don Quixote",
+    "baseCharacter": "Don Quixote",
+    "unitId": "21",
+    "speciality": [
+      "Poise",
+      "Haste"
     ],
     "skills": [
       {
@@ -172,15 +181,6 @@
         "coinEffect": null
       }
     ],
-    "slug": "shi-section-5-don-quixote",
-    "speciality": [
-      "Poise",
-      "Haste"
-    ],
-    "rarity": "00",
-    "baseCharacter": "Don Quixote",
-    "unitId": "21",
-    "name": "[Shi Section 5] Don Quixote",
     "affinities": {
       "Wrath": 3,
       "Envy": 2,
@@ -205,14 +205,24 @@
     }
   },
   {
+    "slug": "w-corp-cleanup-agent-don-quixote",
+    "rarity": "000",
+    "attackType": [
+      "Pierce",
+      "Slash"
+    ],
     "resistances": {
       "blunt": "Fatal",
       "slash": "Normal",
       "pierce": "Ineff."
     },
-    "attackType": [
-      "Pierce",
-      "Slash"
+    "name": "[W Corp. Cleanup Agent] Don Quixote",
+    "baseCharacter": "Don Quixote",
+    "unitId": "8",
+    "speciality": [
+      "Charge",
+      "Rupture",
+      "Fragile"
     ],
     "skills": [
       {
@@ -299,16 +309,6 @@
         }
       }
     ],
-    "slug": "w-corp-cleanup-agent-don-quixote",
-    "speciality": [
-      "Charge",
-      "Rupture",
-      "Fragile"
-    ],
-    "rarity": "000",
-    "baseCharacter": "Don Quixote",
-    "unitId": "8",
-    "name": "[W Corp. Cleanup Agent] Don Quixote",
     "affinities": {
       "Sloth": 3,
       "Gloom": 2,
@@ -333,14 +333,22 @@
     }
   },
   {
+    "slug": "lcb-sinner-faust",
+    "rarity": "0",
+    "attackType": [
+      "Pierce",
+      "Blunt"
+    ],
     "resistances": {
       "blunt": "Normal",
       "slash": "Fatal",
       "pierce": "Ineff."
     },
-    "attackType": [
-      "Pierce",
-      "Blunt"
+    "name": "[LCB Sinner] Faust",
+    "baseCharacter": "Faust",
+    "unitId": "27",
+    "speciality": [
+      "Paralyze"
     ],
     "skills": [
       {
@@ -425,14 +433,6 @@
         }
       }
     ],
-    "slug": "lcb-sinner-faust",
-    "speciality": [
-      "Paralyze"
-    ],
-    "rarity": "0",
-    "baseCharacter": "Faust",
-    "unitId": "27",
-    "name": "[LCB Sinner] Faust",
     "affinities": {
       "Pride": 3,
       "Sloth": 2,
@@ -457,13 +457,23 @@
     }
   },
   {
+    "slug": "w-corp-cleanup-agent-faust",
+    "rarity": "00",
+    "attackType": [
+      "Blunt"
+    ],
     "resistances": {
       "blunt": "Fatal",
       "slash": "Normal",
       "pierce": "Ineff."
     },
-    "attackType": [
-      "Blunt"
+    "name": "[W Corp. Cleanup Agent] Faust",
+    "baseCharacter": "Faust",
+    "unitId": "23",
+    "speciality": [
+      "Charge",
+      "Bind",
+      "Paralyze"
     ],
     "skills": [
       {
@@ -548,16 +558,6 @@
         }
       }
     ],
-    "slug": "w-corp-cleanup-agent-faust",
-    "speciality": [
-      "Charge",
-      "Bind",
-      "Paralyze"
-    ],
-    "rarity": "00",
-    "baseCharacter": "Faust",
-    "unitId": "23",
-    "name": "[W Corp. Cleanup Agent] Faust",
     "affinities": {
       "Envy": 3,
       "Gloom": 2,
@@ -582,14 +582,24 @@
     }
   },
   {
+    "slug": "lobotomy-corp-remnant-faust",
+    "rarity": "00",
+    "attackType": [
+      "Slash",
+      "Pierce"
+    ],
     "resistances": {
       "blunt": "Fatal",
       "slash": "Ineff.",
       "pierce": "Normal"
     },
-    "attackType": [
-      "Slash",
-      "Pierce"
+    "name": "[Lobotomy Corp. Remnant] Faust",
+    "baseCharacter": "Faust",
+    "unitId": "22",
+    "speciality": [
+      "Poise",
+      "Rupture",
+      "Haste"
     ],
     "skills": [
       {
@@ -676,16 +686,6 @@
         }
       }
     ],
-    "slug": "lobotomy-corp-remnant-faust",
-    "speciality": [
-      "Poise",
-      "Rupture",
-      "Haste"
-    ],
-    "rarity": "00",
-    "baseCharacter": "Faust",
-    "unitId": "22",
-    "name": "[Lobotomy Corp. Remnant] Faust",
     "affinities": {
       "Lust": 3,
       "Gloom": 2,
@@ -710,14 +710,24 @@
     }
   },
   {
+    "slug": "the-one-who-grips-faust",
+    "rarity": "000",
+    "attackType": [
+      "Blunt",
+      "Pierce"
+    ],
     "resistances": {
       "blunt": "Ineff.",
       "slash": "Fatal",
       "pierce": "Normal"
     },
-    "attackType": [
-      "Blunt",
-      "Pierce"
+    "name": "[The One Who Grips] Faust",
+    "baseCharacter": "Faust",
+    "unitId": "42",
+    "speciality": [
+      "Bleed",
+      "Nails",
+      "Paralyze"
     ],
     "skills": [
       {
@@ -806,16 +816,6 @@
         }
       }
     ],
-    "slug": "the-one-who-grips-faust",
-    "speciality": [
-      "Bleed",
-      "Nails",
-      "Paralyze"
-    ],
-    "rarity": "000",
-    "baseCharacter": "Faust",
-    "unitId": "42",
-    "name": "[The One Who Grips] Faust",
     "affinities": {
       "Envy": 3,
       "Lust": 2,
@@ -840,14 +840,22 @@
     }
   },
   {
+    "slug": "lcb-sinner-gregor",
+    "rarity": "0",
+    "attackType": [
+      "Slash",
+      "Pierce"
+    ],
     "resistances": {
       "blunt": "Fatal",
       "slash": "Normal",
       "pierce": "Ineff."
     },
-    "attackType": [
-      "Slash",
-      "Pierce"
+    "name": "[LCB Sinner] Gregor",
+    "baseCharacter": "Gregor",
+    "unitId": "37",
+    "speciality": [
+      "Rupture"
     ],
     "skills": [
       {
@@ -932,14 +940,6 @@
         }
       }
     ],
-    "slug": "lcb-sinner-gregor",
-    "speciality": [
-      "Rupture"
-    ],
-    "rarity": "0",
-    "baseCharacter": "Gregor",
-    "unitId": "37",
-    "name": "[LCB Sinner] Gregor",
     "affinities": {
       "Gloom": 3,
       "Gluttony": 2,
@@ -964,13 +964,21 @@
     }
   },
   {
+    "slug": "liu-section-6-gregor",
+    "rarity": "00",
+    "attackType": [
+      "Blunt"
+    ],
     "resistances": {
       "blunt": "Ineff.",
       "slash": "Normal",
       "pierce": "Fatal"
     },
-    "attackType": [
-      "Blunt"
+    "name": "[Liu Section 6] Gregor",
+    "baseCharacter": "Gregor",
+    "unitId": "11",
+    "speciality": [
+      "Burn"
     ],
     "skills": [
       {
@@ -1055,14 +1063,6 @@
         }
       }
     ],
-    "slug": "liu-section-6-gregor",
-    "speciality": [
-      "Burn"
-    ],
-    "rarity": "00",
-    "baseCharacter": "Gregor",
-    "unitId": "11",
-    "name": "[Liu Section 6] Gregor",
     "affinities": {
       "Wrath": 3,
       "Lust": 2,
@@ -1087,14 +1087,22 @@
     }
   },
   {
+    "slug": "g-corp-manager-corporal-gregor",
+    "rarity": "000",
+    "attackType": [
+      "Slash",
+      "Pierce"
+    ],
     "resistances": {
       "blunt": "Fatal",
       "slash": "Normal",
       "pierce": "Ineff."
     },
-    "attackType": [
-      "Slash",
-      "Pierce"
+    "name": "[G Corp. Manager Corporal] Gregor",
+    "baseCharacter": "Gregor",
+    "unitId": "1",
+    "speciality": [
+      "Rupture"
     ],
     "skills": [
       {
@@ -1181,14 +1189,6 @@
         }
       }
     ],
-    "slug": "g-corp-manager-corporal-gregor",
-    "speciality": [
-      "Rupture"
-    ],
-    "rarity": "000",
-    "baseCharacter": "Gregor",
-    "unitId": "1",
-    "name": "[G Corp. Manager Corporal] Gregor",
     "affinities": {
       "Gluttony": 3,
       "Sloth": 2,
@@ -1213,13 +1213,21 @@
     }
   },
   {
+    "slug": "lcb-sinner-heathcliff",
+    "rarity": "0",
+    "attackType": [
+      "Blunt"
+    ],
     "resistances": {
       "blunt": "Ineff.",
       "slash": "Fatal",
       "pierce": "Normal"
     },
-    "attackType": [
-      "Blunt"
+    "name": "[LCB Sinner] Heathcliff",
+    "baseCharacter": "Heathcliff",
+    "unitId": "32",
+    "speciality": [
+      "Tremor"
     ],
     "skills": [
       {
@@ -1293,14 +1301,6 @@
         }
       }
     ],
-    "slug": "lcb-sinner-heathcliff",
-    "speciality": [
-      "Tremor"
-    ],
-    "rarity": "0",
-    "baseCharacter": "Heathcliff",
-    "unitId": "32",
-    "name": "[LCB Sinner] Heathcliff",
     "affinities": {
       "Envy": 3,
       "Wrath": 2,
@@ -1325,14 +1325,23 @@
     }
   },
   {
+    "slug": "n-corp-kleinhammer-heathcliff",
+    "rarity": "00",
+    "attackType": [
+      "Pierce",
+      "Blunt"
+    ],
     "resistances": {
       "blunt": "Fatal",
       "slash": "Ineff.",
       "pierce": "Normal"
     },
-    "attackType": [
-      "Pierce",
-      "Blunt"
+    "name": "[N Corp. Kleinhammer] Heathcliff",
+    "baseCharacter": "Heathcliff",
+    "unitId": "41",
+    "speciality": [
+      "Bleed",
+      "Nails"
     ],
     "skills": [
       {
@@ -1419,15 +1428,6 @@
         }
       }
     ],
-    "slug": "n-corp-kleinhammer-heathcliff",
-    "speciality": [
-      "Bleed",
-      "Nails"
-    ],
-    "rarity": "00",
-    "baseCharacter": "Heathcliff",
-    "unitId": "41",
-    "name": "[N Corp. Kleinhammer] Heathcliff",
     "affinities": {
       "Envy": 3,
       "Gloom": 2,
@@ -1452,15 +1452,21 @@
     }
   },
   {
+    "slug": "shi-section-5-heathcliff",
+    "rarity": "00",
+    "attackType": [
+      "Slash",
+      "Pierce"
+    ],
     "resistances": {
       "blunt": "Normal",
       "slash": "Ineff.",
       "pierce": "Fatal"
     },
-    "attackType": [
-      "Slash",
-      "Pierce"
-    ],
+    "name": "[Shi Section 5] Heathcliff",
+    "baseCharacter": "Heathcliff",
+    "unitId": "17",
+    "speciality": null,
     "skills": [
       {
         "skillId": "17_1",
@@ -1524,12 +1530,6 @@
         }
       }
     ],
-    "slug": "shi-section-5-heathcliff",
-    "speciality": null,
-    "rarity": "00",
-    "baseCharacter": "Heathcliff",
-    "unitId": "17",
-    "name": "[Shi Section 5] Heathcliff",
     "affinities": {
       "Lust": 3,
       "Wrath": 2,
@@ -1554,13 +1554,26 @@
     }
   },
   {
+    "slug": "r-corp-4th-pack-rabbit-heathcliff",
+    "rarity": "000",
+    "attackType": [
+      "Pierce"
+    ],
     "resistances": {
       "blunt": "Fatal",
       "slash": "Normal",
       "pierce": "Ineff."
     },
-    "attackType": [
-      "Pierce"
+    "name": "[R Corp. 4th Pack Rabbit] Heathcliff",
+    "baseCharacter": "Heathcliff",
+    "unitId": "4",
+    "speciality": [
+      "Charge",
+      "Bleed",
+      "Fragile",
+      "Rupture",
+      "Haste",
+      "Ammo"
     ],
     "skills": [
       {
@@ -1649,19 +1662,6 @@
         }
       }
     ],
-    "slug": "r-corp-4th-pack-rabbit-heathcliff",
-    "speciality": [
-      "Charge",
-      "Bleed",
-      "Fragile",
-      "Rupture",
-      "Haste",
-      "Ammo"
-    ],
-    "rarity": "000",
-    "baseCharacter": "Heathcliff",
-    "unitId": "4",
-    "name": "[R Corp. 4th Pack Rabbit] Heathcliff",
     "affinities": {
       "Wrath": 3,
       "Gluttony": 2,
@@ -1686,14 +1686,23 @@
     }
   },
   {
+    "slug": "lcb-sinner-hong-lu",
+    "rarity": "0",
+    "attackType": [
+      "Blunt",
+      "Slash"
+    ],
     "resistances": {
       "blunt": "Ineff.",
       "slash": "Fatal",
       "pierce": "Normal"
     },
-    "attackType": [
-      "Blunt",
-      "Slash"
+    "name": "[LCB Sinner] Hong Lu",
+    "baseCharacter": "Hong Lu",
+    "unitId": "31",
+    "speciality": [
+      "Sinking",
+      "Rupture"
     ],
     "skills": [
       {
@@ -1782,15 +1791,6 @@
         }
       }
     ],
-    "slug": "lcb-sinner-hong-lu",
-    "speciality": [
-      "Sinking",
-      "Rupture"
-    ],
-    "rarity": "0",
-    "baseCharacter": "Hong Lu",
-    "unitId": "31",
-    "name": "[LCB Sinner] Hong Lu",
     "affinities": {
       "Pride": 3,
       "Sloth": 2,
@@ -1815,13 +1815,142 @@
     }
   },
   {
+    "slug": "liu-section-5-hong-lu",
+    "rarity": "00",
+    "attackType": [
+      "Blunt"
+    ],
+    "resistances": {
+      "blunt": "",
+      "slash": "",
+      "pierce": ""
+    },
+    "name": "[Liu Section 5] Hong Lu",
+    "baseCharacter": "Hong Lu",
+    "unitId": "43",
+    "speciality": [
+      "Burn"
+    ],
+    "skills": [
+      {
+        "skillId": "43_1",
+        "name": "Warm Up",
+        "type": "Gloom",
+        "attackType": "Blunt",
+        "amount": "3",
+        "numberOfCoins": "2",
+        "skillPower": null,
+        "coinPower": null,
+        "offenseLevel": null,
+        "growth": null,
+        "skillEffect": {
+          "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"[When Use]\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" Heal SP\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+        },
+        "coinEffect": {
+          "level_1_l": "2",
+          "level_1_d": "<b>[On Hit]</b> Inflict Burn",
+          "level_2_l": "",
+          "level_2_d": "",
+          "level_3_l": "",
+          "level_3_d": "",
+          "level_4_l": "",
+          "level_4_d": "",
+          "level_5_l": "",
+          "level_5_d": "",
+          "level_6_l": "",
+          "level_6_d": ""
+        }
+      },
+      {
+        "skillId": "43_2",
+        "name": "Flowing Flame",
+        "type": "Lust",
+        "attackType": "Blunt",
+        "amount": "2",
+        "numberOfCoins": "2",
+        "skillPower": null,
+        "coinPower": null,
+        "offenseLevel": null,
+        "growth": null,
+        "skillEffect": null,
+        "coinEffect": {
+          "level_1_l": "1",
+          "level_1_d": "<b>[On Hit]</b> Inflict Burn; if target already has Burn, inflict more",
+          "level_2_l": "2",
+          "level_2_d": "<b>[On Hit]</b> Inflict more Burn count; inflict even more when the user SP is above a certain amount",
+          "level_3_l": "",
+          "level_3_d": "",
+          "level_4_l": "",
+          "level_4_d": "",
+          "level_5_l": "",
+          "level_5_d": "",
+          "level_6_l": "",
+          "level_6_d": ""
+        }
+      },
+      {
+        "skillId": "43_3",
+        "name": "Crimson Blaze Fist",
+        "type": "Wrath",
+        "attackType": "Blunt",
+        "amount": "1",
+        "numberOfCoins": "2",
+        "skillPower": null,
+        "coinPower": null,
+        "offenseLevel": null,
+        "growth": null,
+        "skillEffect": null,
+        "coinEffect": {
+          "level_1_l": "1",
+          "level_1_d": "<b>[On Hit]</b> Inflict Burn; if target already has Burn, inflict Burn Count",
+          "level_2_l": "2",
+          "level_2_d": "<b>[Heads Hit]</b> Heal SP <br /> <b>[On Hit]</b> If target has a certain amount of Burn Count, raise Stagger Threshold by a portion of damage dealt",
+          "level_3_l": "",
+          "level_3_d": "",
+          "level_4_l": "",
+          "level_4_d": "",
+          "level_5_l": "",
+          "level_5_d": "",
+          "level_6_l": "",
+          "level_6_d": ""
+        }
+      }
+    ],
+    "affinities": {
+      "Gloom": 3,
+      "Lust": 2,
+      "Wrath": 1
+    },
+    "images": {
+      "small": {
+        "src": "https://www.prydwen.gg/static/6a0bb044c9291b7ed5773cd950fe2032/41624/43_sm.jpg",
+        "width": 160,
+        "height": 160
+      },
+      "mid": {
+        "src": "https://www.prydwen.gg/static/dc4cc2c5481a0d0115e0cdd3ea381960/fd77f/43_mid.jpg",
+        "width": 140,
+        "height": 216
+      }
+    }
+  },
+  {
+    "slug": "kurokumo-wakashu-hong-lu",
+    "rarity": "00",
+    "attackType": [
+      "Slash"
+    ],
     "resistances": {
       "blunt": "Fatal",
       "slash": "Ineff.",
       "pierce": "Normal"
     },
-    "attackType": [
-      "Slash"
+    "name": "[Kurokumo Wakashu] Hong Lu",
+    "baseCharacter": "Hong Lu",
+    "unitId": "18",
+    "speciality": [
+      "Bleed",
+      "Paralyze"
     ],
     "skills": [
       {
@@ -1910,15 +2039,6 @@
         }
       }
     ],
-    "slug": "kurokumo-wakashu-hong-lu",
-    "speciality": [
-      "Bleed",
-      "Paralyze"
-    ],
-    "rarity": "00",
-    "baseCharacter": "Hong Lu",
-    "unitId": "18",
-    "name": "[Kurokumo Wakashu] Hong Lu",
     "affinities": {
       "Lust": 3,
       "Pride": 2,
@@ -1943,14 +2063,22 @@
     }
   },
   {
+    "slug": "tingtang-gangleader-hong-lu",
+    "rarity": "000",
+    "attackType": [
+      "Pierce",
+      "Slash"
+    ],
     "resistances": {
       "blunt": "Fatal",
       "slash": "Ineff.",
       "pierce": "Normal"
     },
-    "attackType": [
-      "Pierce",
-      "Slash"
+    "name": "[Tingtang Gangleader] Hong Lu",
+    "baseCharacter": "Hong Lu",
+    "unitId": "5",
+    "speciality": [
+      "Bleed"
     ],
     "skills": [
       {
@@ -2037,14 +2165,6 @@
         }
       }
     ],
-    "slug": "tingtang-gangleader-hong-lu",
-    "speciality": [
-      "Bleed"
-    ],
-    "rarity": "000",
-    "baseCharacter": "Hong Lu",
-    "unitId": "5",
-    "name": "[Tingtang Gangleader] Hong Lu",
     "affinities": {
       "Envy": 3,
       "Lust": 2,
@@ -2069,13 +2189,21 @@
     }
   },
   {
+    "slug": "lcb-sinner-ishmael",
+    "rarity": "0",
+    "attackType": [
+      "Blunt"
+    ],
     "resistances": {
       "blunt": "Ineff.",
       "slash": "Fatal",
       "pierce": "Normal"
     },
-    "attackType": [
-      "Blunt"
+    "name": "[LCB Sinner] Ishmael",
+    "baseCharacter": "Ishmael",
+    "unitId": "33",
+    "speciality": [
+      "Tremor"
     ],
     "skills": [
       {
@@ -2149,14 +2277,6 @@
         }
       }
     ],
-    "slug": "lcb-sinner-ishmael",
-    "speciality": [
-      "Tremor"
-    ],
-    "rarity": "0",
-    "baseCharacter": "Ishmael",
-    "unitId": "33",
-    "name": "[LCB Sinner] Ishmael",
     "affinities": {
       "Wrath": 3,
       "Gluttony": 2,
@@ -2181,14 +2301,22 @@
     }
   },
   {
+    "slug": "shi-section-5-ishmael",
+    "rarity": "00",
+    "attackType": [
+      "Pierce",
+      "Slash"
+    ],
     "resistances": {
       "blunt": "Normal",
       "slash": "Ineff.",
       "pierce": "Fatal"
     },
-    "attackType": [
-      "Pierce",
-      "Slash"
+    "name": "[Shi Section 5] Ishmael",
+    "baseCharacter": "Ishmael",
+    "unitId": "38",
+    "speciality": [
+      "Poise"
     ],
     "skills": [
       {
@@ -2277,14 +2405,6 @@
         }
       }
     ],
-    "slug": "shi-section-5-ishmael",
-    "speciality": [
-      "Poise"
-    ],
-    "rarity": "00",
-    "baseCharacter": "Ishmael",
-    "unitId": "38",
-    "name": "[Shi Section 5] Ishmael",
     "affinities": {
       "Envy": 3,
       "Lust": 2,
@@ -2309,13 +2429,25 @@
     }
   },
   {
+    "slug": "lccb-assistant-manager-ishmael",
+    "rarity": "00",
+    "attackType": [
+      "Blunt"
+    ],
     "resistances": {
       "blunt": "Ineff.",
       "slash": "Normal",
       "pierce": "Fatal"
     },
-    "attackType": [
-      "Blunt"
+    "name": "[LCCB Assistant Manager] Ishmael",
+    "baseCharacter": "Ishmael",
+    "unitId": "16",
+    "speciality": [
+      "Paralyze",
+      "Ammo",
+      "Tremor",
+      "Rupture",
+      "Fragile"
     ],
     "skills": [
       {
@@ -2400,18 +2532,6 @@
         }
       }
     ],
-    "slug": "lccb-assistant-manager-ishmael",
-    "speciality": [
-      "Paralyze",
-      "Ammo",
-      "Tremor",
-      "Rupture",
-      "Fragile"
-    ],
-    "rarity": "00",
-    "baseCharacter": "Ishmael",
-    "unitId": "16",
-    "name": "[LCCB Assistant Manager] Ishmael",
     "affinities": {
       "Gluttony": 3,
       "Gloom": 2,
@@ -2436,13 +2556,22 @@
     }
   },
   {
+    "slug": "r-corp-4th-pack-reindeer-ishmael",
+    "rarity": "000",
+    "attackType": [
+      "Blunt"
+    ],
     "resistances": {
       "blunt": "Ineff",
       "slash": "Fatal",
       "pierce": "Normal"
     },
-    "attackType": [
-      "Blunt"
+    "name": "[R Corp. 4th Pack Reindeer] Ishmael",
+    "baseCharacter": "Ishmael",
+    "unitId": "3",
+    "speciality": [
+      "Sinking",
+      "Charge"
     ],
     "skills": [
       {
@@ -2531,15 +2660,6 @@
         }
       }
     ],
-    "slug": "r-corp-4th-pack-reindeer-ishmael",
-    "speciality": [
-      "Sinking",
-      "Charge"
-    ],
-    "rarity": "000",
-    "baseCharacter": "Ishmael",
-    "unitId": "3",
-    "name": "[R Corp. 4th Pack Reindeer] Ishmael",
     "affinities": {
       "Gloom": 3,
       "Envy": 2,
@@ -2564,13 +2684,21 @@
     }
   },
   {
+    "slug": "lcb-sinner-meursault",
+    "rarity": "0",
+    "attackType": [
+      "Blunt"
+    ],
     "resistances": {
       "blunt": "Ineff.",
       "slash": "Normal",
       "pierce": "Fatal"
     },
-    "attackType": [
-      "Blunt"
+    "name": "[LCB Sinner] Meursault",
+    "baseCharacter": "Meursault",
+    "unitId": "30",
+    "speciality": [
+      "Tremor"
     ],
     "skills": [
       {
@@ -2659,14 +2787,6 @@
         }
       }
     ],
-    "slug": "lcb-sinner-meursault",
-    "speciality": [
-      "Tremor"
-    ],
-    "rarity": "0",
-    "baseCharacter": "Meursault",
-    "unitId": "30",
-    "name": "[LCB Sinner] Meursault",
     "affinities": {
       "Sloth": 3,
       "Pride": 2,
@@ -2691,14 +2811,22 @@
     }
   },
   {
+    "slug": "liu-section-6-meursault",
+    "rarity": "00",
+    "attackType": [
+      "Blunt",
+      "Pierce"
+    ],
     "resistances": {
       "blunt": "Ineff.",
       "slash": "Normal",
       "pierce": "Fatal"
     },
-    "attackType": [
-      "Blunt",
-      "Pierce"
+    "name": "[Liu Section 6] Meursault",
+    "baseCharacter": "Meursault",
+    "unitId": "19",
+    "speciality": [
+      "Burn"
     ],
     "skills": [
       {
@@ -2783,14 +2911,6 @@
         }
       }
     ],
-    "slug": "liu-section-6-meursault",
-    "speciality": [
-      "Burn"
-    ],
-    "rarity": "00",
-    "baseCharacter": "Meursault",
-    "unitId": "19",
-    "name": "[Liu Section 6] Meursault",
     "affinities": {
       "Lust": 3,
       "Sloth": 2,
@@ -2815,14 +2935,23 @@
     }
   },
   {
+    "slug": "n-corp-grosshammer-meursault",
+    "rarity": "000",
+    "attackType": [
+      "Blunt",
+      "Pierce"
+    ],
     "resistances": {
       "blunt": "Fatal",
       "slash": "Normal",
       "pierce": "Ineff."
     },
-    "attackType": [
-      "Blunt",
-      "Pierce"
+    "name": "[N Corp. Gro\u1e9ehammer] Meursault",
+    "baseCharacter": "Meursault",
+    "unitId": "40",
+    "speciality": [
+      "Bind",
+      "Nails"
     ],
     "skills": [
       {
@@ -2907,15 +3036,6 @@
         }
       }
     ],
-    "slug": "n-corp-grosshammer-meursault",
-    "speciality": [
-      "Bind",
-      "Nails"
-    ],
-    "rarity": "000",
-    "baseCharacter": "Meursault",
-    "unitId": "40",
-    "name": "[N Corp. Gro\u1e9ehammer] Meursault",
     "affinities": {
       "Sloth": 3,
       "Wrath": 2,
@@ -2940,13 +3060,22 @@
     }
   },
   {
+    "slug": "w-corp-cleanup-agent-meursault",
+    "rarity": "000",
+    "attackType": [
+      "Slash"
+    ],
     "resistances": {
       "blunt": "Fatal",
       "slash": "Normal",
       "pierce": "Ineff."
     },
-    "attackType": [
-      "Slash"
+    "name": "[W Corp. Cleanup Agent] Meursault",
+    "baseCharacter": "Meursault",
+    "unitId": "6",
+    "speciality": [
+      "Charge",
+      "Rupture"
     ],
     "skills": [
       {
@@ -3033,15 +3162,6 @@
         }
       }
     ],
-    "slug": "w-corp-cleanup-agent-meursault",
-    "speciality": [
-      "Charge",
-      "Rupture"
-    ],
-    "rarity": "000",
-    "baseCharacter": "Meursault",
-    "unitId": "6",
-    "name": "[W Corp. Cleanup Agent] Meursault",
     "affinities": {
       "Envy": 3,
       "Gloom": 2,
@@ -3066,14 +3186,22 @@
     }
   },
   {
+    "slug": "lcb-sinner-outis",
+    "rarity": "0",
+    "attackType": [
+      "Slash",
+      "Pierce"
+    ],
     "resistances": {
       "blunt": "Fatal",
       "slash": "Ineff.",
       "pierce": "Normal"
     },
-    "attackType": [
-      "Slash",
-      "Pierce"
+    "name": "[LCB Sinner] Outis",
+    "baseCharacter": "Outis",
+    "unitId": "36",
+    "speciality": [
+      "Rupture"
     ],
     "skills": [
       {
@@ -3147,14 +3275,6 @@
         "coinEffect": null
       }
     ],
-    "slug": "lcb-sinner-outis",
-    "speciality": [
-      "Rupture"
-    ],
-    "rarity": "0",
-    "baseCharacter": "Outis",
-    "unitId": "36",
-    "name": "[LCB Sinner] Outis",
     "affinities": {
       "Sloth": 3,
       "Pride": 2,
@@ -3179,14 +3299,22 @@
     }
   },
   {
+    "slug": "g-corp-head-manager-outis",
+    "rarity": "00",
+    "attackType": [
+      "Pierce",
+      "Blunt"
+    ],
     "resistances": {
       "blunt": "Fatal",
       "slash": "Normal",
       "pierce": "Ineff."
     },
-    "attackType": [
-      "Pierce",
-      "Blunt"
+    "name": "[G Corp. Head Manager] Outis",
+    "baseCharacter": "Outis",
+    "unitId": "12",
+    "speciality": [
+      "Sinking"
     ],
     "skills": [
       {
@@ -3273,14 +3401,6 @@
         }
       }
     ],
-    "slug": "g-corp-head-manager-outis",
-    "speciality": [
-      "Sinking"
-    ],
-    "rarity": "00",
-    "baseCharacter": "Outis",
-    "unitId": "12",
-    "name": "[G Corp. Head Manager] Outis",
     "affinities": {
       "Sloth": 3,
       "Gluttony": 2,
@@ -3305,14 +3425,22 @@
     }
   },
   {
+    "slug": "blade-lineage-cutthroat-outis",
+    "rarity": "00",
+    "attackType": [
+      "Slash",
+      "Pierce"
+    ],
     "resistances": {
       "blunt": "Normal",
       "slash": "Ineff.",
       "pierce": "Fatal"
     },
-    "attackType": [
-      "Slash",
-      "Pierce"
+    "name": "[Blade Lineage Cutthroat] Outis",
+    "baseCharacter": "Outis",
+    "unitId": "13",
+    "speciality": [
+      "Poise"
     ],
     "skills": [
       {
@@ -3401,14 +3529,6 @@
         }
       }
     ],
-    "slug": "blade-lineage-cutthroat-outis",
-    "speciality": [
-      "Poise"
-    ],
-    "rarity": "00",
-    "baseCharacter": "Outis",
-    "unitId": "13",
-    "name": "[Blade Lineage Cutthroat] Outis",
     "affinities": {
       "Wrath": 3,
       "Lust": 2,
@@ -3433,13 +3553,148 @@
     }
   },
   {
+    "slug": "seven-section-6-director-outis",
+    "rarity": "000",
+    "attackType": [
+      "Slash",
+      "Blunt"
+    ],
+    "resistances": {
+      "blunt": "",
+      "slash": "",
+      "pierce": ""
+    },
+    "name": "[Seven Section 6 Director] Outis ",
+    "baseCharacter": "Outis",
+    "unitId": "44",
+    "speciality": [
+      "Paralyze",
+      "Rupture",
+      "Haste"
+    ],
+    "skills": [
+      {
+        "skillId": "44_1",
+        "name": "Predictive Analysis",
+        "type": "Gluttony",
+        "attackType": "Blunt",
+        "amount": "3",
+        "numberOfCoins": "1",
+        "skillPower": null,
+        "coinPower": null,
+        "offenseLevel": null,
+        "growth": null,
+        "skillEffect": {
+          "raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"In a clash, the opponent has reduced Clash Power.\",\"marks\":[],\"data\":{}}]}]}"
+        },
+        "coinEffect": {
+          "level_1_l": "1",
+          "level_1_d": "<b>[On Hit]</b> Inflict Paralyze next turn",
+          "level_2_l": "",
+          "level_2_d": "",
+          "level_3_l": "",
+          "level_3_d": "",
+          "level_4_l": "",
+          "level_4_d": "",
+          "level_5_l": "",
+          "level_5_d": "",
+          "level_6_l": "",
+          "level_6_d": ""
+        }
+      },
+      {
+        "skillId": "44_2",
+        "name": "Field Command",
+        "type": "Sloth",
+        "attackType": "Slash",
+        "amount": "2",
+        "numberOfCoins": "2",
+        "skillPower": null,
+        "coinPower": null,
+        "offenseLevel": null,
+        "growth": null,
+        "skillEffect": {
+          "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"In a clash, the opponent has reduced Clash Power.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+        },
+        "coinEffect": {
+          "level_1_l": "1",
+          "level_1_d": "<b>[On Hit]</b> Inflict Rupture Count <br /> <b>[On Hit]</b> Inflict Defense Level Down next turn",
+          "level_2_l": "2",
+          "level_2_d": "<b>[On Hit]</b> Inflict Rupture Count <br /> <b>[On Hit]</b> Inflict Defense Level Down next turn",
+          "level_3_l": "",
+          "level_3_d": "",
+          "level_4_l": "",
+          "level_4_d": "",
+          "level_5_l": "",
+          "level_5_d": "",
+          "level_6_l": "",
+          "level_6_d": ""
+        }
+      },
+      {
+        "skillId": "44_3",
+        "name": "Exploit the Gap",
+        "type": "Lust",
+        "attackType": "Blunt",
+        "amount": "1",
+        "numberOfCoins": "3",
+        "skillPower": null,
+        "coinPower": null,
+        "offenseLevel": null,
+        "growth": null,
+        "skillEffect": {
+          "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"In a clash, the opponent has reduced Clash Power.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+        },
+        "coinEffect": {
+          "level_1_l": "1",
+          "level_1_d": "<b>[On Hit]</b> Inflict Offense Level Down next turn",
+          "level_2_l": "3",
+          "level_2_d": "<b>[On Hit]</b> Deal bonus Slash damage proportional to damage dealt <br /> <b>[On Hit]</b> Inflict Weakness Analyzed next turn",
+          "level_3_l": "",
+          "level_3_d": "",
+          "level_4_l": "",
+          "level_4_d": "",
+          "level_5_l": "",
+          "level_5_d": "",
+          "level_6_l": "",
+          "level_6_d": ""
+        }
+      }
+    ],
+    "affinities": {
+      "Gluttony": 3,
+      "Sloth": 2,
+      "Lust": 1
+    },
+    "images": {
+      "small": {
+        "src": "https://www.prydwen.gg/static/239760e1c33d78ae4cf4831b8098891f/41624/44_sm.jpg",
+        "width": 160,
+        "height": 160
+      },
+      "mid": {
+        "src": "https://www.prydwen.gg/static/cd4d3f097687bb473c687b948738951e/fd77f/44_mid.jpg",
+        "width": 140,
+        "height": 216
+      }
+    }
+  },
+  {
+    "slug": "lcb-sinner-rodion",
+    "rarity": "0",
+    "attackType": [
+      "Slash"
+    ],
     "resistances": {
       "blunt": "Normal",
       "slash": "Ineff.",
       "pierce": "Fatal"
     },
-    "attackType": [
-      "Slash"
+    "name": "[LCB Sinner] Rodion",
+    "baseCharacter": "Rodion",
+    "unitId": "34",
+    "speciality": [
+      "Bleed"
     ],
     "skills": [
       {
@@ -3526,14 +3781,6 @@
         }
       }
     ],
-    "slug": "lcb-sinner-rodion",
-    "speciality": [
-      "Bleed"
-    ],
-    "rarity": "0",
-    "baseCharacter": "Rodion",
-    "unitId": "34",
-    "name": "[LCB Sinner] Rodion",
     "affinities": {
       "Gluttony": 3,
       "Pride": 2,
@@ -3558,14 +3805,25 @@
     }
   },
   {
+    "slug": "n-corp-mittelhammer-rodion",
+    "rarity": "00",
+    "attackType": [
+      "Blunt",
+      "Pierce"
+    ],
     "resistances": {
       "blunt": "Fatal",
       "slash": "Ineff.",
       "pierce": "Normal"
     },
-    "attackType": [
-      "Blunt",
-      "Pierce"
+    "name": "[N Corp. Mittelhammer] Rodion",
+    "baseCharacter": "Rodion",
+    "unitId": "39",
+    "speciality": [
+      "Bleed",
+      "Paralyze",
+      "Haste",
+      "Nails"
     ],
     "skills": [
       {
@@ -3654,17 +3912,6 @@
         }
       }
     ],
-    "slug": "n-corp-mittelhammer-rodion",
-    "speciality": [
-      "Bleed",
-      "Paralyze",
-      "Haste",
-      "Nails"
-    ],
-    "rarity": "00",
-    "baseCharacter": "Rodion",
-    "unitId": "39",
-    "name": "[N Corp. Mittelhammer] Rodion",
     "affinities": {
       "Pride": 3,
       "Lust": 2,
@@ -3689,13 +3936,21 @@
     }
   },
   {
+    "slug": "lccb-assistant-manager-rodion",
+    "rarity": "00",
+    "attackType": [
+      "Blunt"
+    ],
     "resistances": {
       "blunt": "Ineff.",
       "slash": "Normal",
       "pierce": "Fatal"
     },
-    "attackType": [
-      "Blunt"
+    "name": "[LCCB Assistant Manager] Rodion",
+    "baseCharacter": "Rodion",
+    "unitId": "15",
+    "speciality": [
+      "Paralyze"
     ],
     "skills": [
       {
@@ -3782,14 +4037,6 @@
         }
       }
     ],
-    "slug": "lccb-assistant-manager-rodion",
-    "speciality": [
-      "Paralyze"
-    ],
-    "rarity": "00",
-    "baseCharacter": "Rodion",
-    "unitId": "15",
-    "name": "[LCCB Assistant Manager] Rodion",
     "affinities": {
       "Pride": 3,
       "Gluttony": 2,
@@ -3814,13 +4061,22 @@
     }
   },
   {
+    "slug": "kurokumo-henchwoman-rodion",
+    "rarity": "000",
+    "attackType": [
+      "Slash"
+    ],
     "resistances": {
       "blunt": "Fatal",
       "slash": "Ineff.",
       "pierce": "Normal"
     },
-    "attackType": [
-      "Slash"
+    "name": "[Kurokumo Henchwoman] Rodion",
+    "baseCharacter": "Rodion",
+    "unitId": "2",
+    "speciality": [
+      "Poise",
+      "Bleed"
     ],
     "skills": [
       {
@@ -3909,15 +4165,6 @@
         }
       }
     ],
-    "slug": "kurokumo-henchwoman-rodion",
-    "speciality": [
-      "Poise",
-      "Bleed"
-    ],
-    "rarity": "000",
-    "baseCharacter": "Rodion",
-    "unitId": "2",
-    "name": "[Kurokumo Henchwoman] Rodion",
     "affinities": {
       "Gloom": 3,
       "Lust": 2,
@@ -3942,13 +4189,21 @@
     }
   },
   {
+    "slug": "lcb-sinner-ryoshu",
+    "rarity": "0",
+    "attackType": [
+      "Slash"
+    ],
     "resistances": {
       "blunt": "Fatal",
       "slash": "Ineff.",
       "pierce": "Normal"
     },
-    "attackType": [
-      "Slash"
+    "name": "[LCB Sinner] Ryoshu",
+    "baseCharacter": "Ryoshu",
+    "unitId": "29",
+    "speciality": [
+      "Poise"
     ],
     "skills": [
       {
@@ -4022,14 +4277,6 @@
         "coinEffect": null
       }
     ],
-    "slug": "lcb-sinner-ryoshu",
-    "speciality": [
-      "Poise"
-    ],
-    "rarity": "0",
-    "baseCharacter": "Ryoshu",
-    "unitId": "29",
-    "name": "[LCB Sinner] Ryoshu",
     "affinities": {
       "Gluttony": 3,
       "Lust": 2,
@@ -4054,14 +4301,22 @@
     }
   },
   {
+    "slug": "seven-section-6-ryoshu",
+    "rarity": "00",
+    "attackType": [
+      "Slash",
+      "Blunt"
+    ],
     "resistances": {
       "blunt": "Fatal",
       "slash": "Ineff.",
       "pierce": "Normal"
     },
-    "attackType": [
-      "Slash",
-      "Blunt"
+    "name": "[Seven Section 6] Ryoshu",
+    "baseCharacter": "Ryoshu",
+    "unitId": "20",
+    "speciality": [
+      "Rupture"
     ],
     "skills": [
       {
@@ -4150,14 +4405,6 @@
         }
       }
     ],
-    "slug": "seven-section-6-ryoshu",
-    "speciality": [
-      "Rupture"
-    ],
-    "rarity": "00",
-    "baseCharacter": "Ryoshu",
-    "unitId": "20",
-    "name": "[Seven Section 6] Ryoshu",
     "affinities": {
       "Sloth": 3,
       "Pride": 2,
@@ -4182,13 +4429,22 @@
     }
   },
   {
+    "slug": "kurokumo-wakashu-ryoshu",
+    "rarity": "000",
+    "attackType": [
+      "Pierce"
+    ],
     "resistances": {
       "blunt": "Normal",
       "slash": "Fatal",
       "pierce": "Ineff."
     },
-    "attackType": [
-      "Pierce"
+    "name": "[Kurokumo Wakashu] Ryoshu",
+    "baseCharacter": "Ryoshu",
+    "unitId": "7",
+    "speciality": [
+      "Paralyze",
+      "Bleed"
     ],
     "skills": [
       {
@@ -4273,15 +4529,6 @@
         }
       }
     ],
-    "slug": "kurokumo-wakashu-ryoshu",
-    "speciality": [
-      "Paralyze",
-      "Bleed"
-    ],
-    "rarity": "000",
-    "baseCharacter": "Ryoshu",
-    "unitId": "7",
-    "name": "[Kurokumo Wakashu] Ryoshu",
     "affinities": {
       "Gluttony": 3,
       "Pride": 2,
@@ -4306,13 +4553,21 @@
     }
   },
   {
+    "slug": "lcb-sinner-sinclair",
+    "rarity": "0",
+    "attackType": [
+      "Slash"
+    ],
     "resistances": {
       "blunt": "Normal",
       "slash": "Ineff.",
       "pierce": "Fatal"
     },
-    "attackType": [
-      "Slash"
+    "name": "[LCB Sinner] Sinclair",
+    "baseCharacter": "Sinclair",
+    "unitId": "35",
+    "speciality": [
+      "Rupture"
     ],
     "skills": [
       {
@@ -4375,14 +4630,6 @@
         "coinEffect": null
       }
     ],
-    "slug": "lcb-sinner-sinclair",
-    "speciality": [
-      "Rupture"
-    ],
-    "rarity": "0",
-    "baseCharacter": "Sinclair",
-    "unitId": "35",
-    "name": "[LCB Sinner] Sinclair",
     "affinities": {
       "Pride": 3,
       "Wrath": 2,
@@ -4407,13 +4654,22 @@
     }
   },
   {
+    "slug": "jefe-de-los-mariachis-sinclair",
+    "rarity": "00",
+    "attackType": [
+      "Blunt"
+    ],
     "resistances": {
       "blunt": "Ineff.",
       "slash": "Fatal",
       "pierce": "Normal"
     },
-    "attackType": [
-      "Blunt"
+    "name": "[Jefe de Los Mariachis] Sinclair",
+    "baseCharacter": "Sinclair",
+    "unitId": "24",
+    "speciality": [
+      "Sinking",
+      "Poise"
     ],
     "skills": [
       {
@@ -4500,15 +4756,6 @@
         }
       }
     ],
-    "slug": "jefe-de-los-mariachis-sinclair",
-    "speciality": [
-      "Sinking",
-      "Poise"
-    ],
-    "rarity": "00",
-    "baseCharacter": "Sinclair",
-    "unitId": "24",
-    "name": "[Jefe de Los Mariachis] Sinclair",
     "affinities": {
       "Sloth": 3,
       "Envy": 2,
@@ -4533,13 +4780,21 @@
     }
   },
   {
+    "slug": "zwei-section-6-sinclair",
+    "rarity": "00",
+    "attackType": [
+      "Blunt"
+    ],
     "resistances": {
       "blunt": "Ineff.",
       "slash": "Fatal",
       "pierce": "Normal"
     },
-    "attackType": [
-      "Blunt"
+    "name": "[Zwei Section 6] Sinclair",
+    "baseCharacter": "Sinclair",
+    "unitId": "14",
+    "speciality": [
+      "Tremor"
     ],
     "skills": [
       {
@@ -4626,14 +4881,6 @@
         }
       }
     ],
-    "slug": "zwei-section-6-sinclair",
-    "speciality": [
-      "Tremor"
-    ],
-    "rarity": "00",
-    "baseCharacter": "Sinclair",
-    "unitId": "14",
-    "name": "[Zwei Section 6] Sinclair",
     "affinities": {
       "Gloom": 3,
       "Wrath": 2,
@@ -4658,14 +4905,24 @@
     }
   },
   {
+    "slug": "blade-lineage-salsu-sinclair",
+    "rarity": "000",
+    "attackType": [
+      "Pierce",
+      "Slash"
+    ],
     "resistances": {
       "blunt": "Normal",
       "slash": "Ineff.",
       "pierce": "Fatal"
     },
-    "attackType": [
-      "Pierce",
-      "Slash"
+    "name": "[Blade Lineage Salsu] Sinclair",
+    "baseCharacter": "Sinclair",
+    "unitId": "10",
+    "speciality": [
+      "Poise",
+      "Paralyze",
+      "Bleed"
     ],
     "skills": [
       {
@@ -4752,16 +5009,6 @@
         }
       }
     ],
-    "slug": "blade-lineage-salsu-sinclair",
-    "speciality": [
-      "Poise",
-      "Paralyze",
-      "Bleed"
-    ],
-    "rarity": "000",
-    "baseCharacter": "Sinclair",
-    "unitId": "10",
-    "name": "[Blade Lineage Salsu] Sinclair",
     "affinities": {
       "Gluttony": 3,
       "Wrath": 2,
@@ -4786,14 +5033,23 @@
     }
   },
   {
+    "slug": "lcb-sinner-yi-sang",
+    "rarity": "0",
+    "attackType": [
+      "Slash",
+      "Pierce"
+    ],
     "resistances": {
       "blunt": "Normal",
       "slash": "Fatal",
       "pierce": "Ineff."
     },
-    "attackType": [
-      "Slash",
-      "Pierce"
+    "name": "[LCB Sinner] Yi Sang",
+    "baseCharacter": "Yi Sang",
+    "unitId": "26",
+    "speciality": [
+      "Sinking",
+      "Fragile"
     ],
     "skills": [
       {
@@ -4878,15 +5134,6 @@
         }
       }
     ],
-    "slug": "lcb-sinner-yi-sang",
-    "speciality": [
-      "Sinking",
-      "Fragile"
-    ],
-    "rarity": "0",
-    "baseCharacter": "Yi Sang",
-    "unitId": "26",
-    "name": "[LCB Sinner] Yi Sang",
     "affinities": {
       "Gloom": 3,
       "Envy": 2,
@@ -4911,14 +5158,24 @@
     }
   },
   {
+    "slug": "seven-section-6-yi-sang",
+    "rarity": "00",
+    "attackType": [
+      "Pierce",
+      "Blunt"
+    ],
     "resistances": {
       "blunt": "Fatal",
       "slash": "Normal",
       "pierce": "Ineff."
     },
-    "attackType": [
-      "Pierce",
-      "Blunt"
+    "name": "[Seven Section 6] Yi Sang",
+    "baseCharacter": "Yi Sang",
+    "unitId": "25",
+    "speciality": [
+      "Rupture",
+      "Fragile",
+      "Paralyze"
     ],
     "skills": [
       {
@@ -5005,16 +5262,6 @@
         }
       }
     ],
-    "slug": "seven-section-6-yi-sang",
-    "speciality": [
-      "Rupture",
-      "Fragile",
-      "Paralyze"
-    ],
-    "rarity": "00",
-    "baseCharacter": "Yi Sang",
-    "unitId": "25",
-    "name": "[Seven Section 6] Yi Sang",
     "affinities": {
       "Gloom": 3,
       "Gluttony": 2,
@@ -5039,13 +5286,21 @@
     }
   },
   {
+    "slug": "blade-lineage-salsu-yi-sang",
+    "rarity": "000",
+    "attackType": [
+      "Slash"
+    ],
     "resistances": {
       "blunt": "Normal",
       "slash": "Ineff.",
       "pierce": "Fatal"
     },
-    "attackType": [
-      "Slash"
+    "name": "[Blade Lineage Salsu] Yi Sang",
+    "baseCharacter": "Yi Sang",
+    "unitId": "9",
+    "speciality": [
+      "Poise"
     ],
     "skills": [
       {
@@ -5119,14 +5374,6 @@
         }
       }
     ],
-    "slug": "blade-lineage-salsu-yi-sang",
-    "speciality": [
-      "Poise"
-    ],
-    "rarity": "000",
-    "baseCharacter": "Yi Sang",
-    "unitId": "9",
-    "name": "[Blade Lineage Salsu] Yi Sang",
     "affinities": {
       "Pride": 3,
       "Wrath": 2,
