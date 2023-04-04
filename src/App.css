@@ -118,4 +118,13 @@ body {
   .affinity-report {
     order: -1;
   }
+
+  .selected-character {
+    max-height: 70px;
+  }
+
+  .selected-ego {
+    max-height: 70px;
+  }
+    
 }
