@@ -1,0 +1,974 @@
+[
+  {
+    "rarity": "HE",
+    "unitId": "32",
+    "affinity": "Envy",
+    "slug": "telepole-don-quixote",
+    "name": "[Telepole] Don Quixote ",
+    "character": "Don Quixote",
+    "sanityCost": "20",
+    "affinities": {
+      "Wrath": 1,
+      "Sloth": 2,
+      "Envy": 2
+    },
+    "images": {
+      "small": {
+        "src": "https://www.prydwen.gg/static/b184e675583c4b979b312d5e37a88bdc/41624/ego_32_sm.jpg",
+        "width": 160,
+        "height": 160
+      },
+      "med": {
+        "src": "https://www.prydwen.gg/static/a2335e7705c906086ba15d3dd1f1d7d7/fd77f/ego_32_mid.jpg",
+        "width": 140,
+        "height": 216
+      },
+      "full": {
+        "src": "https://www.prydwen.gg/static/80057f86fbd72bf5d8fec94f1375c9c0/0b7ab/ego_32_full.png",
+        "width": 666,
+        "height": 666
+      }
+    }
+  },
+  {
+    "rarity": "HE",
+    "unitId": "22",
+    "affinity": "Gloom",
+    "slug": "fluid-sac-don-quixote",
+    "name": "[Fluid Sac] Don Quixote",
+    "character": "Don Quixote",
+    "sanityCost": "20",
+    "affinities": {
+      "Gloom": 4,
+      "Pride": 2,
+      "Lust": 1
+    },
+    "images": {
+      "small": {
+        "src": "https://www.prydwen.gg/static/da2ef70fcae303c49978caaffc914244/41624/ego_22_sm.jpg",
+        "width": 160,
+        "height": 160
+      },
+      "med": {
+        "src": "https://www.prydwen.gg/static/77fe2a68b54c40e093a9b1526684dd88/fd77f/ego_22_mid.jpg",
+        "width": 140,
+        "height": 216
+      },
+      "full": {
+        "src": "https://www.prydwen.gg/static/809da5d6dce36c47f6a41850c7cf0812/0b7ab/ego_22_full.png",
+        "width": 666,
+        "height": 666
+      }
+    }
+  },
+  {
+    "rarity": "ZAYIN",
+    "unitId": "9",
+    "affinity": "Lust",
+    "slug": "la-sangre-de-sancho-don-quixote",
+    "name": "[La Sangre de Sancho] Don Quixote",
+    "character": "Don Quixote",
+    "sanityCost": "0",
+    "affinities": {
+      "Lust": 2,
+      "Pride": 2
+    },
+    "images": {
+      "small": {
+        "src": "https://www.prydwen.gg/static/80378d492f1082773c1f9f82c114f220/41624/ego_9_sm.jpg",
+        "width": 160,
+        "height": 160
+      },
+      "med": {
+        "src": "https://www.prydwen.gg/static/f8b5d3ba212ce2983de7cd143a34d61b/fd77f/ego_9_mid.jpg",
+        "width": 140,
+        "height": 216
+      },
+      "full": {
+        "src": "https://www.prydwen.gg/static/feafbd6fc03c38e71911daaee53d775f/0b7ab/ego_9_full.png",
+        "width": 666,
+        "height": 666
+      }
+    }
+  },
+  {
+    "rarity": "HE",
+    "unitId": "21",
+    "affinity": "Gloom",
+    "slug": "fluid-sac-faust",
+    "name": "[Fluid Sac] Faust",
+    "character": "Faust",
+    "sanityCost": "20",
+    "affinities": {
+      "Lust": 2,
+      "Gloom": 4,
+      "Envy": 3
+    },
+    "images": {
+      "small": {
+        "src": "https://www.prydwen.gg/static/4c0f9724f153d17ec66c59288cfabea4/41624/ego_21_sm.jpg",
+        "width": 160,
+        "height": 160
+      },
+      "med": {
+        "src": "https://www.prydwen.gg/static/61e096f8e01828795011a739eadd3d2f/fd77f/ego_21_mid.jpg",
+        "width": 140,
+        "height": 216
+      },
+      "full": {
+        "src": "https://www.prydwen.gg/static/6bdc634dea72c2cff1207b770d27ff8d/0b7ab/ego_21_full.png",
+        "width": 666,
+        "height": 666
+      }
+    }
+  },
+  {
+    "rarity": "TETH",
+    "unitId": "4",
+    "affinity": "Envy",
+    "slug": "hex-nail-faust",
+    "name": "[Hex Nail] Faust",
+    "character": "Faust",
+    "sanityCost": "20",
+    "affinities": {
+      "Envy": 6
+    },
+    "images": {
+      "small": {
+        "src": "https://www.prydwen.gg/static/a12b2dfd07df729f35eef35ba83d0c89/41624/ego_3_sm.jpg",
+        "width": 160,
+        "height": 160
+      },
+      "med": {
+        "src": "https://www.prydwen.gg/static/1606e95d1b7fdea16598dff1ac15ddc0/fd77f/ego_3_mid.jpg",
+        "width": 140,
+        "height": 216
+      },
+      "full": {
+        "src": "https://www.prydwen.gg/static/16c7bdeb02a6531808c95a4a7490b52e/0b7ab/ego_3_full.png",
+        "width": 666,
+        "height": 666
+      }
+    }
+  },
+  {
+    "rarity": "ZAYIN",
+    "unitId": "8",
+    "affinity": "Pride",
+    "slug": "representation-emitter-faust",
+    "name": "[Representation Emitter] Faust",
+    "character": "Faust",
+    "sanityCost": "0",
+    "affinities": {
+      "Gluttony": 2,
+      "Pride": 4
+    },
+    "images": {
+      "small": {
+        "src": "https://www.prydwen.gg/static/bb743d351c62c124070ce530705dc78c/41624/ego_8_sm.jpg",
+        "width": 160,
+        "height": 160
+      },
+      "med": {
+        "src": "https://www.prydwen.gg/static/588b78773ddd71e50bee09afab3a3c81/fd77f/ego_8_mid.jpg",
+        "width": 140,
+        "height": 216
+      },
+      "full": {
+        "src": "https://www.prydwen.gg/static/4fe85f5d6ab1d101a6d04584953549bd/0b7ab/ego_8_full.png",
+        "width": 666,
+        "height": 666
+      }
+    }
+  },
+  {
+    "rarity": "TETH",
+    "unitId": "6",
+    "affinity": "Gluttony",
+    "slug": "lantern-gregor",
+    "name": "[Lantern] Gregor",
+    "character": "Gregor",
+    "sanityCost": "20",
+    "affinities": {
+      "Sloth": 1,
+      "Gluttony": 4
+    },
+    "images": {
+      "small": {
+        "src": "https://www.prydwen.gg/static/3ba77c645e3b91b2cea40fbfd40f9bb1/41624/ego_6_sm.jpg",
+        "width": 160,
+        "height": 160
+      },
+      "med": {
+        "src": "https://www.prydwen.gg/static/1bb9ba573b2c7649f621415b241cf97e/fd77f/ego_6_mid.jpg",
+        "width": 140,
+        "height": 216
+      },
+      "full": {
+        "src": "https://www.prydwen.gg/static/732c972c994b5812ca0851d87f8babb1/0b7ab/ego_6_full.png",
+        "width": 666,
+        "height": 666
+      }
+    }
+  },
+  {
+    "rarity": "ZAYIN",
+    "unitId": "30",
+    "affinity": "Gluttony",
+    "slug": "legerdemain-gregor",
+    "name": "[Legerdemain] Gregor",
+    "character": "Gregor",
+    "sanityCost": "10",
+    "affinities": {
+      "Sloth": 1,
+      "Gluttony": 3
+    },
+    "images": {
+      "small": {
+        "src": "https://www.prydwen.gg/static/34a0335fa23ba04ff0efa57ad6eae3ed/41624/ego_30_sm.jpg",
+        "width": 160,
+        "height": 160
+      },
+      "med": {
+        "src": "https://www.prydwen.gg/static/036c9ee527a46db7e2d7be22b2f361d4/fd77f/ego_30_mid.jpg",
+        "width": 140,
+        "height": 216
+      },
+      "full": {
+        "src": "https://www.prydwen.gg/static/1c64c6899cafcb2d1ac987386b48ab1e/0b7ab/ego_30_full.png",
+        "width": 666,
+        "height": 666
+      }
+    }
+  },
+  {
+    "rarity": "ZAYIN",
+    "unitId": "18",
+    "affinity": "Sloth",
+    "slug": "suddenly-one-day-gregor",
+    "name": "[Suddenly, One Day] Gregor",
+    "character": "Gregor",
+    "sanityCost": "0",
+    "affinities": {
+      "Lust": 3,
+      "Gloom": 1
+    },
+    "images": {
+      "small": {
+        "src": "https://www.prydwen.gg/static/d2d9b3536103f890c4f65c3b271e12be/41624/ego_18_sm.jpg",
+        "width": 160,
+        "height": 160
+      },
+      "med": {
+        "src": "https://www.prydwen.gg/static/e8be4a5ba6158ade4d1fa64c7ebad477/fd77f/ego_18_mid.jpg",
+        "width": 140,
+        "height": 216
+      },
+      "full": {
+        "src": "https://www.prydwen.gg/static/392e4d65e2848235f531faa597547183/0b7ab/ego_18_full.png",
+        "width": 666,
+        "height": 666
+      }
+    }
+  },
+  {
+    "rarity": "HE",
+    "unitId": "25",
+    "affinity": "Envy",
+    "slug": "telepole-heathcliff",
+    "name": "[Telepole] Heathcliff",
+    "character": "Heathcliff",
+    "sanityCost": "20",
+    "affinities": {
+      "Wrath": 3,
+      "Lust": 2,
+      "Envy": 3
+    },
+    "images": {
+      "small": {
+        "src": "https://www.prydwen.gg/static/9d596f207c3ea353852dc7ecb2c0f0a9/41624/ego_25_sm.jpg",
+        "width": 160,
+        "height": 160
+      },
+      "med": {
+        "src": "https://www.prydwen.gg/static/a77244838e312bd9def5f024b7423708/fd77f/ego_25_mid.jpg",
+        "width": 140,
+        "height": 216
+      },
+      "full": {
+        "src": "https://www.prydwen.gg/static/6f8a8f4aacd88208780d68e203c2e039/0b7ab/ego_25_full.png",
+        "width": 666,
+        "height": 666
+      }
+    }
+  },
+  {
+    "rarity": "ZAYIN",
+    "unitId": "13",
+    "affinity": "Envy",
+    "slug": "bodysack-heathcliff",
+    "name": "[Bodysack] Heathcliff",
+    "character": "Heathcliff",
+    "sanityCost": "0",
+    "affinities": {
+      "Lust": 2,
+      "Envy": 2
+    },
+    "images": {
+      "small": {
+        "src": "https://www.prydwen.gg/static/1d5c2d49080543e02d79bfe347fa311c/41624/ego_13_sm.jpg",
+        "width": 160,
+        "height": 160
+      },
+      "med": {
+        "src": "https://www.prydwen.gg/static/37256b670846de8ff106b8d40faea8a2/fd77f/ego_13_mid.jpg",
+        "width": 140,
+        "height": 216
+      },
+      "full": {
+        "src": "https://www.prydwen.gg/static/9bc154179ac41c7f3e334e536cd83ea5/0b7ab/ego_13_full.png",
+        "width": 666,
+        "height": 666
+      }
+    }
+  },
+  {
+    "rarity": "TETH",
+    "unitId": "24",
+    "affinity": "Lust",
+    "slug": "roseate-desire-hong-lu",
+    "name": "[Roseate Desire] Hong Lu",
+    "character": "Hong Lu",
+    "sanityCost": "20",
+    "affinities": {
+      "Lust": 4,
+      "Envy": 2
+    },
+    "images": {
+      "small": {
+        "src": "https://www.prydwen.gg/static/c76918e02ecc437ca73f57513843d971/41624/ego_24_sm.jpg",
+        "width": 160,
+        "height": 160
+      },
+      "med": {
+        "src": "https://www.prydwen.gg/static/315943f489fe8a14ad042c51810cf3a6/fd77f/ego_24_mid.jpg",
+        "width": 140,
+        "height": 216
+      },
+      "full": {
+        "src": "https://www.prydwen.gg/static/39d03968d445acef0fb5d67024171247/0b7ab/ego_24_full.png",
+        "width": 666,
+        "height": 666
+      }
+    }
+  },
+  {
+    "rarity": "ZAYIN",
+    "unitId": "12",
+    "affinity": "Gloom",
+    "slug": "land-of-illusion-hong-lu",
+    "name": "[Land of Illusion] Hong Lu",
+    "character": "Hong Lu",
+    "sanityCost": "0",
+    "affinities": {
+      "Lust": 1,
+      "Gloom": 5
+    },
+    "images": {
+      "small": {
+        "src": "https://www.prydwen.gg/static/758759ed45ec8770301fc113aedf0d1d/41624/ego_12_sm.jpg",
+        "width": 160,
+        "height": 160
+      },
+      "med": {
+        "src": "https://www.prydwen.gg/static/9af56d1783fa9bd82f7e6682cc0ebaa3/fd77f/ego_12_mid.jpg",
+        "width": 140,
+        "height": 216
+      },
+      "full": {
+        "src": "https://www.prydwen.gg/static/6f976c0b3caee8115f54dee07be5b6f2/0b7ab/ego_12_full.png",
+        "width": 666,
+        "height": 666
+      }
+    }
+  },
+  {
+    "rarity": "HE",
+    "unitId": "2",
+    "affinity": "Wrath",
+    "slug": "ardor-blossom-star-ishmael",
+    "name": "[Ardor Blossom Star] Ishmael",
+    "character": "Ishmael",
+    "sanityCost": "20",
+    "affinities": {
+      "Wrath": 4,
+      "Lust": 2,
+      "Envy": 1
+    },
+    "images": {
+      "small": {
+        "src": "https://www.prydwen.gg/static/0db4768b4478068611586457a469fcf6/41624/ego_2_sm.jpg",
+        "width": 160,
+        "height": 160
+      },
+      "med": {
+        "src": "https://www.prydwen.gg/static/0637154582951c4051f1d7a371e8d9a8/fd77f/ego_2_mid.jpg",
+        "width": 140,
+        "height": 216
+      },
+      "full": {
+        "src": "https://www.prydwen.gg/static/e0e3cb4f2cdfc5afb5f20ed03dc93f31/0b7ab/ego_2_full.png",
+        "width": 666,
+        "height": 666
+      }
+    }
+  },
+  {
+    "rarity": "TETH",
+    "unitId": "26",
+    "affinity": "Lust",
+    "slug": "roseate-desire-ishmael",
+    "name": "[Roseate Desire] Ishmael",
+    "character": "Ishmael",
+    "sanityCost": "20",
+    "affinities": {
+      "Wrath": 1,
+      "Lust": 4
+    },
+    "images": {
+      "small": {
+        "src": "https://www.prydwen.gg/static/41fe7ccfee65d60cc15bdc73d489e6d0/41624/ego_26_sm.jpg",
+        "width": 160,
+        "height": 160
+      },
+      "med": {
+        "src": "https://www.prydwen.gg/static/a9f670e198ee6b1df790f2b7f0024465/fd77f/ego_26_mid.jpg",
+        "width": 140,
+        "height": 216
+      },
+      "full": {
+        "src": "https://www.prydwen.gg/static/e9c17c18c8bdebdb070cb16d57d04929/0b7ab/ego_26_full.png",
+        "width": 666,
+        "height": 666
+      }
+    }
+  },
+  {
+    "rarity": "ZAYIN",
+    "unitId": "14",
+    "affinity": "Gloom",
+    "slug": "snagharpoon-ishmael",
+    "name": "[Snagharpoon] Ishmael",
+    "character": "Ishmael",
+    "sanityCost": "0",
+    "affinities": {
+      "Wrath": 2,
+      "Gloom": 2
+    },
+    "images": {
+      "small": {
+        "src": "https://www.prydwen.gg/static/d255aac61550e89a4617d59116f3b923/41624/ego_14_sm.jpg",
+        "width": 160,
+        "height": 160
+      },
+      "med": {
+        "src": "https://www.prydwen.gg/static/c04e6800f0c91ae5c677410359d4a8b5/fd77f/ego_14_mid.jpg",
+        "width": 140,
+        "height": 216
+      },
+      "full": {
+        "src": "https://www.prydwen.gg/static/4b6a169e8ff9ea8bc714bb4d031b7c33/0b7ab/ego_14_full.png",
+        "width": 666,
+        "height": 666
+      }
+    }
+  },
+  {
+    "rarity": "HE",
+    "unitId": "1",
+    "affinity": "Sloth",
+    "slug": "pursuance-meursault",
+    "name": "[Pursuance] Meursault",
+    "character": "Meursault",
+    "sanityCost": "20",
+    "affinities": {
+      "Sloth": 4,
+      "Gloom": 1,
+      "Pride": 2
+    },
+    "images": {
+      "small": {
+        "src": "https://www.prydwen.gg/static/2cf725da91409d85dadabd3ce97a0d33/41624/ego_1_sm.jpg",
+        "width": 160,
+        "height": 160
+      },
+      "med": {
+        "src": "https://www.prydwen.gg/static/d6eeabc961af8ccb454100bfc6880119/fd77f/ego_1_mid.jpg",
+        "width": 140,
+        "height": 216
+      },
+      "full": {
+        "src": "https://www.prydwen.gg/static/6c54009efc791ede52f6d4b15648dac6/0b7ab/ego_1_full.png",
+        "width": 666,
+        "height": 666
+      }
+    }
+  },
+  {
+    "rarity": "TETH",
+    "unitId": "23",
+    "affinity": "Envy",
+    "slug": "you-want-to-get-beat-hurtily-meursault",
+    "name": "[You Want To Get Beat? Hurtily?] Meursault",
+    "character": "Meursault",
+    "sanityCost": "20",
+    "affinities": {
+      "Sloth": 2,
+      "Pride": 1,
+      "Envy": 2
+    },
+    "images": {
+      "small": {
+        "src": "https://www.prydwen.gg/static/178a5ff9d934a60738c48260ac0e8170/41624/ego_23_sm.jpg",
+        "width": 160,
+        "height": 160
+      },
+      "med": {
+        "src": "https://www.prydwen.gg/static/da5bae1b4f761a0e650896cc94f44f4f/fd77f/ego_23_mid.jpg",
+        "width": 140,
+        "height": 216
+      },
+      "full": {
+        "src": "https://www.prydwen.gg/static/00363395fe25e6de21543cc0368466a8/0b7ab/ego_23_full.png",
+        "width": 666,
+        "height": 666
+      }
+    }
+  },
+  {
+    "rarity": "ZAYIN",
+    "unitId": "11",
+    "affinity": "Pride",
+    "slug": "chain-of-others-meursault",
+    "name": "[Chain of Others] Meursault",
+    "character": "Meursault",
+    "sanityCost": "0",
+    "affinities": {
+      "Sloth": 1,
+      "Gloom": 1,
+      "Envy": 2
+    },
+    "images": {
+      "small": {
+        "src": "https://www.prydwen.gg/static/ff1b9117250725a664318fc88a864d1c/41624/ego_11_sm.jpg",
+        "width": 160,
+        "height": 160
+      },
+      "med": {
+        "src": "https://www.prydwen.gg/static/65469a470aff5863d61b022ce5d8d863/fd77f/ego_11_mid.jpg",
+        "width": 140,
+        "height": 216
+      },
+      "full": {
+        "src": "https://www.prydwen.gg/static/7e259cb9eb74f9b69d23f47ede4ee971/0b7ab/ego_11_full.png",
+        "width": 666,
+        "height": 666
+      }
+    }
+  },
+  {
+    "rarity": "HE",
+    "unitId": "31",
+    "affinity": "Gluttony",
+    "slug": "ebony-stem-outis",
+    "name": "[Ebony Stem] Outis",
+    "character": "Outis",
+    "sanityCost": "20",
+    "affinities": {
+      "Lust": 2,
+      "Gluttony": 3,
+      "Gloom": 1,
+      "Pride": 4
+    },
+    "images": {
+      "small": {
+        "src": "https://www.prydwen.gg/static/fddc7b06ec512575d103a10fe26766ff/41624/ego_31_sm.jpg",
+        "width": 160,
+        "height": 160
+      },
+      "med": {
+        "src": "https://www.prydwen.gg/static/514ba2f02068518614ed8aab6356929d/fd77f/ego_31_mid.jpg",
+        "width": 140,
+        "height": 216
+      },
+      "full": {
+        "src": "https://www.prydwen.gg/static/696df723d3ddd6b8c4dc7c3114a2155b/0b7ab/ego_31_full.png",
+        "width": 666,
+        "height": 666
+      }
+    }
+  },
+  {
+    "rarity": "TETH",
+    "unitId": "5",
+    "affinity": "Lust",
+    "slug": "ya-sunyata-tad-rupam-outis",
+    "name": "[Ya \u015a\u016bnyat\u0101 Tad R\u016bpam] Outis",
+    "character": "Outis",
+    "sanityCost": "15",
+    "affinities": {
+      "Lust": 2,
+      "Sloth": 2,
+      "Pride": 2
+    },
+    "images": {
+      "small": {
+        "src": "https://www.prydwen.gg/static/f406ed562fa37fb9d751decd160c0007/41624/ego_5_sm.jpg",
+        "width": 160,
+        "height": 160
+      },
+      "med": {
+        "src": "https://www.prydwen.gg/static/5b4b5d61a2f48e606eb0c3c3436391dc/fd77f/ego_5_mid.jpg",
+        "width": 140,
+        "height": 216
+      },
+      "full": {
+        "src": "https://www.prydwen.gg/static/a1e38a0ba79540f4dc01fd5c4e98e576/0b7ab/ego_5_full.png",
+        "width": 666,
+        "height": 666
+      }
+    }
+  },
+  {
+    "rarity": "ZAYIN",
+    "unitId": "17",
+    "affinity": "Pride",
+    "slug": "to-pathos-mathos-outis",
+    "name": "[To P\u00e1thos M\u00e1thos] Outis",
+    "character": "Outis",
+    "sanityCost": "0",
+    "affinities": {
+      "Sloth": 2,
+      "Pride": 2
+    },
+    "images": {
+      "small": {
+        "src": "https://www.prydwen.gg/static/21767fdbac7f4201e8f5f49720562333/41624/ego_17_sm.jpg",
+        "width": 160,
+        "height": 160
+      },
+      "med": {
+        "src": "https://www.prydwen.gg/static/a5ea5ee5454eeaf46ddbdc0dadae7de3/fd77f/ego_17_mid.jpg",
+        "width": 140,
+        "height": 216
+      },
+      "full": {
+        "src": "https://www.prydwen.gg/static/8de9d7537f0cbdbad27a807682de473a/0b7ab/ego_17_full.png",
+        "width": 666,
+        "height": 666
+      }
+    }
+  },
+  {
+    "rarity": "HE",
+    "unitId": "28",
+    "affinity": "Wrath",
+    "slug": "4th-match-flame-rodion",
+    "name": "[4th Match Flame] Rodion",
+    "character": "Rodion",
+    "sanityCost": "20",
+    "affinities": {
+      "Wrath": 3,
+      "Pride": 2,
+      "Envy": 1
+    },
+    "images": {
+      "small": {
+        "src": "https://www.prydwen.gg/static/c97ea63d84cd1be86d3de9a2bfaa57c9/41624/ego_28_sm.jpg",
+        "width": 160,
+        "height": 160
+      },
+      "med": {
+        "src": "https://www.prydwen.gg/static/92cab8e5d7b325e38f312cbcb2556ce0/fd77f/ego_28_mid.jpg",
+        "width": 140,
+        "height": 216
+      },
+      "full": {
+        "src": "https://www.prydwen.gg/static/308e18fef437ebbab8eb640503e379da/0b7ab/ego_28_full.png",
+        "width": 666,
+        "height": 666
+      }
+    }
+  },
+  {
+    "rarity": "TETH",
+    "unitId": "27",
+    "affinity": "Gloom",
+    "slug": "rime-shank-rodion",
+    "name": "[Rime Shank] Rodion",
+    "character": "Rodion",
+    "sanityCost": "20",
+    "affinities": {
+      "Gloom": 5,
+      "Envy": 3
+    },
+    "images": {
+      "small": {
+        "src": "https://www.prydwen.gg/static/d6dc1ed86b0ae21400534d32f6df1aad/41624/ego_27_sm.jpg",
+        "width": 160,
+        "height": 160
+      },
+      "med": {
+        "src": "https://www.prydwen.gg/static/52675a6b2d412899d58f1668c58a496a/fd77f/ego_27_mid.jpg",
+        "width": 140,
+        "height": 216
+      },
+      "full": {
+        "src": "https://www.prydwen.gg/static/6efcb683ce5f9701126645d88c85b49a/0b7ab/ego_27_full.png",
+        "width": 666,
+        "height": 666
+      }
+    }
+  },
+  {
+    "rarity": "ZAYIN",
+    "unitId": "15",
+    "affinity": "Pride",
+    "slug": "what-is-cast-rodion",
+    "name": "[What is Cast] Rodion",
+    "character": "Rodion",
+    "sanityCost": "0",
+    "affinities": {
+      "Gloom": 1,
+      "Pride": 3
+    },
+    "images": {
+      "small": {
+        "src": "https://www.prydwen.gg/static/eddbb7f19f10ba8bc842461ba309a5b7/41624/ego_15_sm.jpg",
+        "width": 160,
+        "height": 160
+      },
+      "med": {
+        "src": "https://www.prydwen.gg/static/47d15f18588de18e951932610bccdad1/fd77f/ego_15_mid.jpg",
+        "width": 140,
+        "height": 216
+      },
+      "full": {
+        "src": "https://www.prydwen.gg/static/8d2b5b2d152fb59b91494a856ab248cb/0b7ab/ego_15_full.png",
+        "width": 666,
+        "height": 666
+      }
+    }
+  },
+  {
+    "rarity": "HE",
+    "unitId": "19",
+    "affinity": "Wrath",
+    "slug": "4th-match-flame-ryoshu",
+    "name": "[4th Match Flame] Ryoshu",
+    "character": "Ryoshu",
+    "sanityCost": "20",
+    "affinities": {
+      "Wrath": 4,
+      "Pride": 2
+    },
+    "images": {
+      "small": {
+        "src": "https://www.prydwen.gg/static/6d5449aa2aaa971ea5a500a70f552906/41624/ego_19_sm.jpg",
+        "width": 160,
+        "height": 160
+      },
+      "med": {
+        "src": "https://www.prydwen.gg/static/1545481773b94ade93928cdf193fcb1f/fd77f/ego_19_mid.jpg",
+        "width": 140,
+        "height": 216
+      },
+      "full": {
+        "src": "https://www.prydwen.gg/static/60dca158f99d3189c19276982d20b251/0b7ab/ego_19_full.png",
+        "width": 666,
+        "height": 666
+      }
+    }
+  },
+  {
+    "rarity": "ZAYIN",
+    "unitId": "10",
+    "affinity": "Lust",
+    "slug": "forest-for-the-flames-ryoshu",
+    "name": "[Forest for the Flames] Ryoshu",
+    "character": "Ryoshu",
+    "sanityCost": "0",
+    "affinities": {
+      "Wrath": 2,
+      "Lust": 2
+    },
+    "images": {
+      "small": {
+        "src": "https://www.prydwen.gg/static/47910f9cce5e3662292b41b60f8c6923/41624/ego_10_sm.jpg",
+        "width": 160,
+        "height": 160
+      },
+      "med": {
+        "src": "https://www.prydwen.gg/static/42905fb0f4123f07ad9b104edbbc9c87/fd77f/ego_10_mid.jpg",
+        "width": 140,
+        "height": 216
+      },
+      "full": {
+        "src": "https://www.prydwen.gg/static/39f6dfd3516d7e134e99c2ac426ef3a1/0b7ab/ego_10_full.png",
+        "width": 666,
+        "height": 666
+      }
+    }
+  },
+  {
+    "rarity": "TETH",
+    "unitId": "29",
+    "affinity": "Wrath",
+    "slug": "impending-day-sinclair",
+    "name": "[Impending Day] Sinclair",
+    "character": "Sinclair",
+    "sanityCost": "20",
+    "affinities": {
+      "Wrath": 3,
+      "Lust": 2
+    },
+    "images": {
+      "small": {
+        "src": "https://www.prydwen.gg/static/d083a3646b8daf9537fa792f8dbc20a2/41624/ego_29_sm.jpg",
+        "width": 160,
+        "height": 160
+      },
+      "med": {
+        "src": "https://www.prydwen.gg/static/bfaa0ed94d51ff45fd1ba95ca87c6042/fd77f/ego_29_mid.jpg",
+        "width": 140,
+        "height": 216
+      },
+      "full": {
+        "src": "https://www.prydwen.gg/static/100bf1d1b7e6ac9ba31f526d26c336d9/0b7ab/ego_29_full.png",
+        "width": 666,
+        "height": 666
+      }
+    }
+  },
+  {
+    "rarity": "ZAYIN",
+    "unitId": "16",
+    "affinity": "Gluttony",
+    "slug": "branch-of-knowledge-sinclair",
+    "name": "[Branch of Knowledge] Sinclair",
+    "character": "Sinclair",
+    "sanityCost": "0",
+    "affinities": {
+      "Wrath": 1,
+      "Gluttony": 3
+    },
+    "images": {
+      "small": {
+        "src": "https://www.prydwen.gg/static/b4cc41a37e3fd714ef66c9d265e64559/41624/ego_16_sm.jpg",
+        "width": 160,
+        "height": 160
+      },
+      "med": {
+        "src": "https://www.prydwen.gg/static/3342ac5395daf9dc01f721ff6d66a5c9/fd77f/ego_16_mid.jpg",
+        "width": 140,
+        "height": 216
+      },
+      "full": {
+        "src": "https://www.prydwen.gg/static/e5664c669eb4519f8fcf39ca17ad658b/0b7ab/ego_16_full.png",
+        "width": 666,
+        "height": 666
+      }
+    }
+  },
+  {
+    "rarity": "TETH",
+    "unitId": "20",
+    "affinity": "Wrath",
+    "slug": "4th-match-flame-yi-sang",
+    "name": "[4th Match Flame] Yi Sang",
+    "character": "Yi Sang",
+    "sanityCost": "20",
+    "affinities": {
+      "Wrath": 5,
+      "Sloth": 1,
+      "Gluttony": 1
+    },
+    "images": {
+      "small": {
+        "src": "https://www.prydwen.gg/static/846571b32abb96d6c28913096c345dbc/41624/ego_20_sm.jpg",
+        "width": 160,
+        "height": 160
+      },
+      "med": {
+        "src": "https://www.prydwen.gg/static/27df09b14205275be268393d24967e55/fd77f/ego_20_mid.jpg",
+        "width": 140,
+        "height": 216
+      },
+      "full": {
+        "src": "https://www.prydwen.gg/static/265c059e3d269f956ec11f12414eaf20/0b7ab/ego_20_full.png",
+        "width": 666,
+        "height": 666
+      }
+    }
+  },
+  {
+    "rarity": "TETH",
+    "unitId": "3",
+    "affinity": "Sloth",
+    "slug": "wishing-cairn-yi-sang",
+    "name": "[Wishing Cairn] Yi Sang",
+    "character": "Yi Sang",
+    "sanityCost": "20",
+    "affinities": {
+      "Gloom": 1,
+      "Sloth": 4
+    },
+    "images": {
+      "small": {
+        "src": "https://www.prydwen.gg/static/dfa53cabd007f4e024580115f53607c9/41624/ego_4_sm.jpg",
+        "width": 160,
+        "height": 160
+      },
+      "med": {
+        "src": "https://www.prydwen.gg/static/ee77ba74e5e190d1d3d3e29de3a3f0cf/fd77f/ego_4_mid.jpg",
+        "width": 140,
+        "height": 216
+      },
+      "full": {
+        "src": "https://www.prydwen.gg/static/150d738836cc52e801b3fbbd3539a293/0b7ab/ego_4_full.png",
+        "width": 666,
+        "height": 666
+      }
+    }
+  },
+  {
+    "rarity": "ZAYIN",
+    "unitId": "7",
+    "affinity": "Sloth",
+    "slug": "crowss-eye-view-yi-sang",
+    "name": "[Crows's Eye View] Yi Sang",
+    "character": "Yi Sang",
+    "sanityCost": "0",
+    "affinities": {
+      "Wrath": 1,
+      "Sloth": 3
+    },
+    "images": {
+      "small": {
+        "src": "https://www.prydwen.gg/static/e49aa22da2de8568d7f009ee82ff8861/41624/ego_7_sm.jpg",
+        "width": 160,
+        "height": 160
+      },
+      "med": {
+        "src": "https://www.prydwen.gg/static/86002943021025f2ad2d19b63ccd38ed/fd77f/ego_7_mid.jpg",
+        "width": 140,
+        "height": 216
+      },
+      "full": {
+        "src": "https://www.prydwen.gg/static/8daa26458ce4bcc46fe9a76d869aea41/0b7ab/ego_7_full.png",
+        "width": 666,
+        "height": 666
+      }
+    }
+  }
+]
