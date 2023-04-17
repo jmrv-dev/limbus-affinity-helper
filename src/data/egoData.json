@@ -1,12 +1,12 @@
 [
   {
-    "unitId": "22",
-    "affinity": "Gloom",
+    "slug": "fluid-sac-don-quixote",
+    "character": "Don Quixote",
     "sanityCost": "20",
     "name": "[Fluid Sac] Don Quixote",
-    "character": "Don Quixote",
+    "unitId": "22",
+    "affinity": "Gloom",
     "rarity": "HE",
-    "slug": "fluid-sac-don-quixote",
     "affinities": {
       "Gloom": 4,
       "Pride": 2,
@@ -31,13 +31,13 @@
     }
   },
   {
-    "unitId": "32",
-    "affinity": "Envy",
+    "slug": "telepole-don-quixote",
+    "character": "Don Quixote",
     "sanityCost": "20",
     "name": "[Telepole] Don Quixote ",
-    "character": "Don Quixote",
+    "unitId": "32",
+    "affinity": "Envy",
     "rarity": "HE",
-    "slug": "telepole-don-quixote",
     "affinities": {
       "Wrath": 1,
       "Gloom": 2,
@@ -62,13 +62,35 @@
     }
   },
   {
-    "unitId": "9",
+    "slug": "lifetime-stew-don-quixote",
+    "character": "Don Quixote",
+    "sanityCost": "20",
+    "name": "[Lifetime Stew] Don Quixote",
+    "unitId": "34",
     "affinity": "Lust",
+    "rarity": "TETH",
+    "affinities": {},
+    "images": {
+      "small": {
+        "src": "https://www.prydwen.gg/static/2dfc2d03ff2d0e0ce42931fd20732aac/41624/ego_34_sm.jpg",
+        "width": 160,
+        "height": 160
+      },
+      "med": {
+        "src": "https://www.prydwen.gg/static/1107ba0c002ca36ab2f34142df6b2bde/fd77f/ego_34_mid.jpg",
+        "width": 140,
+        "height": 216
+      }
+    }
+  },
+  {
+    "slug": "la-sangre-de-sancho-don-quixote",
+    "character": "Don Quixote",
     "sanityCost": "0",
     "name": "[La Sangre de Sancho] Don Quixote",
-    "character": "Don Quixote",
+    "unitId": "9",
+    "affinity": "Lust",
     "rarity": "ZAYIN",
-    "slug": "la-sangre-de-sancho-don-quixote",
     "affinities": {
       "Lust": 2,
       "Pride": 2
@@ -92,13 +114,13 @@
     }
   },
   {
-    "unitId": "21",
-    "affinity": "Gloom",
+    "slug": "fluid-sac-faust",
+    "character": "Faust",
     "sanityCost": "20",
     "name": "[Fluid Sac] Faust",
-    "character": "Faust",
+    "unitId": "21",
+    "affinity": "Gloom",
     "rarity": "HE",
-    "slug": "fluid-sac-faust",
     "affinities": {
       "Lust": 2,
       "Gloom": 4,
@@ -123,35 +145,44 @@
     }
   },
   {
-    "unitId": "33",
-    "affinity": "Envy",
+    "slug": "telepole-faust",
+    "character": "Faust",
     "sanityCost": "20",
     "name": "[Telepole] Faust",
-    "character": "Faust",
+    "unitId": "33",
+    "affinity": "Envy",
     "rarity": "HE",
-    "slug": "telepole-faust",
-    "affinities": {},
+    "affinities": {
+      "Wrath": 1,
+      "Lust": 3,
+      "Envy": 2
+    },
     "images": {
       "small": {
-        "src": "https://www.prydwen.gg/static/7e1e581519f9fe45b6a7ddb7677b3583/41624/ego_33_sm.jpg",
+        "src": "https://www.prydwen.gg/static/72e314ae9ad4b8ad73b758263f88517e/41624/ego_33_sm.jpg",
         "width": 160,
         "height": 160
       },
       "med": {
-        "src": "https://www.prydwen.gg/static/f5d0e7f16e5c51f409388a7f2f2ea5a2/fd77f/ego_33_mid.jpg",
+        "src": "https://www.prydwen.gg/static/2f0f51dd5643a237a9a9816b19b3c8b7/fd77f/ego_33_mid.jpg",
         "width": 140,
         "height": 216
+      },
+      "full": {
+        "src": "https://www.prydwen.gg/static/97b33040f603d3e5ac5c39c45307bad8/0b7ab/ego_33_full.png",
+        "width": 666,
+        "height": 666
       }
     }
   },
   {
-    "unitId": "4",
-    "affinity": "Envy",
+    "slug": "hex-nail-faust",
+    "character": "Faust",
     "sanityCost": "20",
     "name": "[Hex Nail] Faust",
-    "character": "Faust",
+    "unitId": "4",
+    "affinity": "Envy",
     "rarity": "TETH",
-    "slug": "hex-nail-faust",
     "affinities": {
       "Envy": 6
     },
@@ -174,13 +205,13 @@
     }
   },
   {
-    "unitId": "8",
-    "affinity": "Pride",
+    "slug": "representation-emitter-faust",
+    "character": "Faust",
     "sanityCost": "0",
     "name": "[Representation Emitter] Faust",
-    "character": "Faust",
+    "unitId": "8",
+    "affinity": "Pride",
     "rarity": "ZAYIN",
-    "slug": "representation-emitter-faust",
     "affinities": {
       "Gluttony": 2,
       "Pride": 4
@@ -204,13 +235,13 @@
     }
   },
   {
-    "unitId": "6",
-    "affinity": "Gluttony",
+    "slug": "lantern-gregor",
+    "character": "Gregor",
     "sanityCost": "20",
     "name": "[Lantern] Gregor",
-    "character": "Gregor",
+    "unitId": "6",
+    "affinity": "Gluttony",
     "rarity": "TETH",
-    "slug": "lantern-gregor",
     "affinities": {
       "Sloth": 1,
       "Gluttony": 4
@@ -234,13 +265,13 @@
     }
   },
   {
-    "unitId": "30",
-    "affinity": "Gluttony",
+    "slug": "legerdemain-gregor",
+    "character": "Gregor",
     "sanityCost": "10",
     "name": "[Legerdemain] Gregor",
-    "character": "Gregor",
+    "unitId": "30",
+    "affinity": "Gluttony",
     "rarity": "ZAYIN",
-    "slug": "legerdemain-gregor",
     "affinities": {
       "Sloth": 1,
       "Gluttony": 3
@@ -264,13 +295,13 @@
     }
   },
   {
-    "unitId": "18",
-    "affinity": "Sloth",
+    "slug": "suddenly-one-day-gregor",
+    "character": "Gregor",
     "sanityCost": "0",
     "name": "[Suddenly, One Day] Gregor",
-    "character": "Gregor",
+    "unitId": "18",
+    "affinity": "Sloth",
     "rarity": "ZAYIN",
-    "slug": "suddenly-one-day-gregor",
     "affinities": {
       "Lust": 3,
       "Gloom": 1
@@ -294,13 +325,13 @@
     }
   },
   {
-    "unitId": "25",
-    "affinity": "Envy",
+    "slug": "telepole-heathcliff",
+    "character": "Heathcliff",
     "sanityCost": "20",
     "name": "[Telepole] Heathcliff",
-    "character": "Heathcliff",
+    "unitId": "25",
+    "affinity": "Envy",
     "rarity": "HE",
-    "slug": "telepole-heathcliff",
     "affinities": {
       "Wrath": 3,
       "Lust": 2,
@@ -325,13 +356,13 @@
     }
   },
   {
-    "unitId": "13",
-    "affinity": "Envy",
+    "slug": "bodysack-heathcliff",
+    "character": "Heathcliff",
     "sanityCost": "0",
     "name": "[Bodysack] Heathcliff",
-    "character": "Heathcliff",
+    "unitId": "13",
+    "affinity": "Envy",
     "rarity": "ZAYIN",
-    "slug": "bodysack-heathcliff",
     "affinities": {
       "Lust": 2,
       "Envy": 2
@@ -355,13 +386,13 @@
     }
   },
   {
-    "unitId": "24",
-    "affinity": "Lust",
+    "slug": "roseate-desire-hong-lu",
+    "character": "Hong Lu",
     "sanityCost": "20",
     "name": "[Roseate Desire] Hong Lu",
-    "character": "Hong Lu",
+    "unitId": "24",
+    "affinity": "Lust",
     "rarity": "TETH",
-    "slug": "roseate-desire-hong-lu",
     "affinities": {
       "Lust": 4,
       "Envy": 2
@@ -385,13 +416,13 @@
     }
   },
   {
-    "unitId": "12",
-    "affinity": "Gloom",
+    "slug": "land-of-illusion-hong-lu",
+    "character": "Hong Lu",
     "sanityCost": "0",
     "name": "[Land of Illusion] Hong Lu",
-    "character": "Hong Lu",
+    "unitId": "12",
+    "affinity": "Gloom",
     "rarity": "ZAYIN",
-    "slug": "land-of-illusion-hong-lu",
     "affinities": {
       "Lust": 1,
       "Gloom": 5
@@ -415,13 +446,13 @@
     }
   },
   {
-    "unitId": "2",
-    "affinity": "Wrath",
+    "slug": "ardor-blossom-star-ishmael",
+    "character": "Ishmael",
     "sanityCost": "20",
     "name": "[Ardor Blossom Star] Ishmael",
-    "character": "Ishmael",
+    "unitId": "2",
+    "affinity": "Wrath",
     "rarity": "HE",
-    "slug": "ardor-blossom-star-ishmael",
     "affinities": {
       "Wrath": 4,
       "Lust": 2,
@@ -446,13 +477,13 @@
     }
   },
   {
-    "unitId": "26",
-    "affinity": "Lust",
+    "slug": "roseate-desire-ishmael",
+    "character": "Ishmael",
     "sanityCost": "20",
     "name": "[Roseate Desire] Ishmael",
-    "character": "Ishmael",
+    "unitId": "26",
+    "affinity": "Lust",
     "rarity": "TETH",
-    "slug": "roseate-desire-ishmael",
     "affinities": {
       "Wrath": 1,
       "Lust": 4
@@ -476,13 +507,13 @@
     }
   },
   {
-    "unitId": "14",
-    "affinity": "Gloom",
+    "slug": "snagharpoon-ishmael",
+    "character": "Ishmael",
     "sanityCost": "0",
     "name": "[Snagharpoon] Ishmael",
-    "character": "Ishmael",
+    "unitId": "14",
+    "affinity": "Gloom",
     "rarity": "ZAYIN",
-    "slug": "snagharpoon-ishmael",
     "affinities": {
       "Wrath": 2,
       "Gloom": 2
@@ -506,13 +537,13 @@
     }
   },
   {
-    "unitId": "1",
-    "affinity": "Sloth",
+    "slug": "pursuance-meursault",
+    "character": "Meursault",
     "sanityCost": "20",
     "name": "[Pursuance] Meursault",
-    "character": "Meursault",
+    "unitId": "1",
+    "affinity": "Sloth",
     "rarity": "HE",
-    "slug": "pursuance-meursault",
     "affinities": {
       "Sloth": 4,
       "Gloom": 1,
@@ -537,13 +568,13 @@
     }
   },
   {
-    "unitId": "23",
-    "affinity": "Envy",
+    "slug": "you-want-to-get-beat-hurtily-meursault",
+    "character": "Meursault",
     "sanityCost": "20",
     "name": "[You Want To Get Beat? Hurtily?] Meursault",
-    "character": "Meursault",
+    "unitId": "23",
+    "affinity": "Envy",
     "rarity": "TETH",
-    "slug": "you-want-to-get-beat-hurtily-meursault",
     "affinities": {
       "Sloth": 2,
       "Pride": 1,
@@ -568,13 +599,13 @@
     }
   },
   {
-    "unitId": "11",
-    "affinity": "Pride",
+    "slug": "chain-of-others-meursault",
+    "character": "Meursault",
     "sanityCost": "0",
     "name": "[Chain of Others] Meursault",
-    "character": "Meursault",
+    "unitId": "11",
+    "affinity": "Pride",
     "rarity": "ZAYIN",
-    "slug": "chain-of-others-meursault",
     "affinities": {
       "Sloth": 1,
       "Gloom": 1,
@@ -599,13 +630,13 @@
     }
   },
   {
-    "unitId": "31",
-    "affinity": "Gluttony",
+    "slug": "ebony-stem-outis",
+    "character": "Outis",
     "sanityCost": "20",
     "name": "[Ebony Stem] Outis",
-    "character": "Outis",
+    "unitId": "31",
+    "affinity": "Gluttony",
     "rarity": "HE",
-    "slug": "ebony-stem-outis",
     "affinities": {
       "Lust": 2,
       "Gluttony": 3,
@@ -631,13 +662,13 @@
     }
   },
   {
-    "unitId": "5",
-    "affinity": "Lust",
+    "slug": "ya-sunyata-tad-rupam-outis",
+    "character": "Outis",
     "sanityCost": "15",
     "name": "[Ya \u015a\u016bnyat\u0101 Tad R\u016bpam] Outis",
-    "character": "Outis",
+    "unitId": "5",
+    "affinity": "Lust",
     "rarity": "TETH",
-    "slug": "ya-sunyata-tad-rupam-outis",
     "affinities": {
       "Lust": 2,
       "Sloth": 2,
@@ -662,13 +693,13 @@
     }
   },
   {
-    "unitId": "17",
-    "affinity": "Pride",
+    "slug": "to-pathos-mathos-outis",
+    "character": "Outis",
     "sanityCost": "0",
     "name": "[To P\u00e1thos M\u00e1thos] Outis",
-    "character": "Outis",
+    "unitId": "17",
+    "affinity": "Pride",
     "rarity": "ZAYIN",
-    "slug": "to-pathos-mathos-outis",
     "affinities": {
       "Sloth": 2,
       "Pride": 2
@@ -692,13 +723,13 @@
     }
   },
   {
-    "unitId": "28",
-    "affinity": "Wrath",
+    "slug": "4th-match-flame-rodion",
+    "character": "Rodion",
     "sanityCost": "20",
     "name": "[4th Match Flame] Rodion",
-    "character": "Rodion",
+    "unitId": "28",
+    "affinity": "Wrath",
     "rarity": "HE",
-    "slug": "4th-match-flame-rodion",
     "affinities": {
       "Wrath": 3,
       "Pride": 2,
@@ -723,13 +754,13 @@
     }
   },
   {
-    "unitId": "27",
-    "affinity": "Gloom",
+    "slug": "rime-shank-rodion",
+    "character": "Rodion",
     "sanityCost": "20",
     "name": "[Rime Shank] Rodion",
-    "character": "Rodion",
+    "unitId": "27",
+    "affinity": "Gloom",
     "rarity": "TETH",
-    "slug": "rime-shank-rodion",
     "affinities": {
       "Gloom": 5,
       "Envy": 3
@@ -753,13 +784,13 @@
     }
   },
   {
-    "unitId": "15",
-    "affinity": "Pride",
+    "slug": "what-is-cast-rodion",
+    "character": "Rodion",
     "sanityCost": "0",
     "name": "[What is Cast] Rodion",
-    "character": "Rodion",
+    "unitId": "15",
+    "affinity": "Pride",
     "rarity": "ZAYIN",
-    "slug": "what-is-cast-rodion",
     "affinities": {
       "Gloom": 1,
       "Pride": 3
@@ -783,13 +814,13 @@
     }
   },
   {
-    "unitId": "19",
-    "affinity": "Wrath",
+    "slug": "4th-match-flame-ryoshu",
+    "character": "Ryoshu",
     "sanityCost": "20",
     "name": "[4th Match Flame] Ryoshu",
-    "character": "Ryoshu",
+    "unitId": "19",
+    "affinity": "Wrath",
     "rarity": "HE",
-    "slug": "4th-match-flame-ryoshu",
     "affinities": {
       "Wrath": 4,
       "Pride": 2
@@ -813,13 +844,13 @@
     }
   },
   {
-    "unitId": "10",
-    "affinity": "Lust",
+    "slug": "forest-for-the-flames-ryoshu",
+    "character": "Ryoshu",
     "sanityCost": "0",
     "name": "[Forest for the Flames] Ryoshu",
-    "character": "Ryoshu",
+    "unitId": "10",
+    "affinity": "Lust",
     "rarity": "ZAYIN",
-    "slug": "forest-for-the-flames-ryoshu",
     "affinities": {
       "Wrath": 2,
       "Lust": 2
@@ -843,13 +874,13 @@
     }
   },
   {
-    "unitId": "29",
-    "affinity": "Wrath",
+    "slug": "impending-day-sinclair",
+    "character": "Sinclair",
     "sanityCost": "20",
     "name": "[Impending Day] Sinclair",
-    "character": "Sinclair",
+    "unitId": "29",
+    "affinity": "Wrath",
     "rarity": "TETH",
-    "slug": "impending-day-sinclair",
     "affinities": {
       "Wrath": 3,
       "Lust": 2
@@ -873,13 +904,35 @@
     }
   },
   {
-    "unitId": "16",
-    "affinity": "Gluttony",
+    "slug": "lifetime-stew-sinclair",
+    "character": "Sinclair",
+    "sanityCost": null,
+    "name": "[Lifetime Stew] Sinclair",
+    "unitId": "35",
+    "affinity": "Lust",
+    "rarity": "TETH",
+    "affinities": {},
+    "images": {
+      "small": {
+        "src": "https://www.prydwen.gg/static/687aaa3b57af3913f4ec7c0a88c40f3f/41624/ego_35_sm.jpg",
+        "width": 160,
+        "height": 160
+      },
+      "med": {
+        "src": "https://www.prydwen.gg/static/9080359335ff8a619dde288e3c4ace1e/fd77f/ego_35_mid.jpg",
+        "width": 140,
+        "height": 216
+      }
+    }
+  },
+  {
+    "slug": "branch-of-knowledge-sinclair",
+    "character": "Sinclair",
     "sanityCost": "0",
     "name": "[Branch of Knowledge] Sinclair",
-    "character": "Sinclair",
+    "unitId": "16",
+    "affinity": "Gluttony",
     "rarity": "ZAYIN",
-    "slug": "branch-of-knowledge-sinclair",
     "affinities": {
       "Wrath": 1,
       "Gluttony": 3
@@ -903,13 +956,13 @@
     }
   },
   {
-    "unitId": "20",
-    "affinity": "Wrath",
+    "slug": "4th-match-flame-yi-sang",
+    "character": "Yi Sang",
     "sanityCost": "20",
     "name": "[4th Match Flame] Yi Sang",
-    "character": "Yi Sang",
+    "unitId": "20",
+    "affinity": "Wrath",
     "rarity": "TETH",
-    "slug": "4th-match-flame-yi-sang",
     "affinities": {
       "Wrath": 5,
       "Sloth": 1,
@@ -934,13 +987,13 @@
     }
   },
   {
-    "unitId": "3",
-    "affinity": "Sloth",
+    "slug": "wishing-cairn-yi-sang",
+    "character": "Yi Sang",
     "sanityCost": "20",
     "name": "[Wishing Cairn] Yi Sang",
-    "character": "Yi Sang",
+    "unitId": "3",
+    "affinity": "Sloth",
     "rarity": "TETH",
-    "slug": "wishing-cairn-yi-sang",
     "affinities": {
       "Gloom": 1,
       "Sloth": 4
@@ -964,13 +1017,13 @@
     }
   },
   {
-    "unitId": "7",
-    "affinity": "Sloth",
+    "slug": "crowss-eye-view-yi-sang",
+    "character": "Yi Sang",
     "sanityCost": "0",
     "name": "[Crows's Eye View] Yi Sang",
-    "character": "Yi Sang",
+    "unitId": "7",
+    "affinity": "Sloth",
     "rarity": "ZAYIN",
-    "slug": "crowss-eye-view-yi-sang",
     "affinities": {
       "Wrath": 1,
       "Sloth": 3
